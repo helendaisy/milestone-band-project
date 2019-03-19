@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*----------------------colors*/
+
+
+/*----------------------special paddings/margins/text*/
+
+
+/*----------------------navbar*/
+
+/*----------------------headers*/
+
+.homepage-container {
+    height: 70vh;
+    padding-left: 0;
+    padding-right: 0;
+    background: url('/assets/media/FoosHomeImage.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+
+    
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.hero-image { 
+    color: #fcf8e3;
+    background-color: rgba(0,0,0, 0.22);
+    height: 70vh;
+    margin-bottom: 0;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.container-fluid .hero-logo {
+    position: relative;
+    justify-content: center;
+    top: 60%;
+   
+}
