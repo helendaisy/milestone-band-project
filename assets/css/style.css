@@ -44,6 +44,22 @@
     position: relative;
 }
 
+.media-container {
+    height: 70vh;
+    padding-left: 0;
+    padding-right: 0;
+    background: url('/assets/media/FoosGif.gif') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+
+    
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
 
 .hero-image { 
     color: #fcf8e3;
