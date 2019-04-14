@@ -61,3 +61,23 @@
    
 }
 
+/*----------------------band info*/
+
+.band-images { 
+    text-align: center;  
+    padding-bottom: 15px;
+}
+
+.media-object {
+    display: block;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.band-members { 
+    padding-bottom: 15px;    
+}
+
+.modal-content .modal-body .modal-image {
+   padding: 15px 15px 15px 15px;
+}
