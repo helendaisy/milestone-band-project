@@ -19,7 +19,6 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-
     
     align-items: center;
     justify-content: center;
@@ -147,4 +146,23 @@
     width: 350px;
     padding-bottom: 15px;
 } 
+
+/*----------------------calendar*/
+
+.shows-head {
+    background-color: red; 
+    margin-left: 10px;
+    margin-right: 100px;    
+    text-align: center;
+    border-style: solid;
+}
+
+.shows-body {
+    margin-left: 10px;
+    margin-right: 100px; 
+    margin-bottom: 50px;
+    text-align: center;
+    border-style: solid;
+    padding-bottom: 20px;
+}
 
