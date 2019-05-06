@@ -8,6 +8,46 @@
 
 /*----------------------navbar*/
 
+.navbar {
+    margin-bottom: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: #2d2c2a;
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+    font-family: "Exo", sans-serif;
+    color : #D4AF37;
+}
+
+.navbar-nav {
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #D4AF37;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #2d2c2a;
+    background: #D4AF37;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #D4AF37;
+}
+
+
+
 /*----------------------headers*/
 
 .homepage-container {
