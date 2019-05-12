@@ -151,6 +151,19 @@
    
 }
 
+/*----------------------homepage*/
+
+.bio-container {
+    background-color: #2d2c2a;
+    color: #D4AF37;
+    font-family: "Exo", sans-serif;
+}
+
+.bio {
+    border: 0;
+    margin-bottom: 30;
+}
+
 /*----------------------band info*/
 
 .band-images { 
