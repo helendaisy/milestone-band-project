@@ -219,6 +219,13 @@
 
 /*----------------------media*/
 
+.foos-container {
+    font-family: "Exo", sans-serif;
+    background-color: #060505;
+    color: #D4AF37;
+    
+}
+
 .media-buttons {
   display: flex;
   justify-content: center;
