@@ -16,7 +16,7 @@
     left: 0;
     width: 100%;
     z-index: 1;
-    background-color: #2d2c2a;
+    background-color: #060505;
     border: 0;
 }
 
@@ -42,7 +42,7 @@
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-    color: #2d2c2a;
+    color: #060505;
     background: #D4AF37;
 }
 
@@ -135,16 +135,21 @@
     position: relative;
 }
 
+/*----------------------remove
+
 .hero-image { 
     color: #fcf8e3;
     background-color: rgba(0,0,0, 0.22);
-    height: 70vh;
+    height: 25px;
     margin-bottom: 0;
     vertical-align: middle;
     text-align: center;
 }
 
-.container-fluid .hero-logo {
+
+*/
+
+.container-fluid .hero-image {
     position: relative;
     justify-content: center;
     top: 60%;
@@ -154,7 +159,7 @@
 /*----------------------homepage*/
 
 .bio-container {
-    background-color: #2d2c2a;
+    background-color: black;
     color: #D4AF37;
     font-family: "Exo", sans-serif;
 }
@@ -164,6 +169,16 @@
     margin-bottom: 30;
 }
 
+.page-header {
+    border-bottom: 0;
+    margin-top: 10px
+}
+
+.about-image { 
+    padding: 25px;
+    text-align: center;
+    background-color: black;
+}
 /*----------------------band info*/
 
 .band-images { 
@@ -240,6 +255,6 @@
 /*----------------------footer*/
 
 .footer-container {
-    background-color: #2d2c2a;
+    background-color: #060505;
     color: #D4AF37;
 }
