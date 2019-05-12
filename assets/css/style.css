@@ -88,7 +88,7 @@
     height: 70vh;
     padding-left: 0;
     padding-right: 0;
-    background: url('/assets/media/FoosBandPhoto.jpg') no-repeat center center;
+    background: url('/assets/media/FoosBandBWPhoto.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -187,6 +187,7 @@
     font-family: "Exo", sans-serif;
     margin: 0;
     padding: 0;
+    padding-top: 20px;
 }
 
 .band-images { 
@@ -199,6 +200,7 @@
     display: block;
     margin-right: auto;
     margin-left: auto; 
+    border-radius: 22px;
 }
 
 .band-members { 
