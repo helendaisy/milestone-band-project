@@ -244,8 +244,6 @@
     padding-left: 15px; 
 }
  
-
-
 .audio-links { 
     padding-top: 20px;
     padding-bottom: 10px;
@@ -280,11 +278,43 @@
 }
 
 
+/*----------------------carousel*/
+
+.carousel {
+    height: 80%;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+ .carousel .item {
+    width: 100%;
+    height: 80%;
+    background-color: transparent;
+}
+.carousel-inner > .item > img {
+    position: relative;
+    margin: 0px auto;
+    min-width: 100%;
+    width: 100%;
+    height: auto;
+    max-width: none;
+}
+
 
 /*----------------------calendar*/
 
+.dates-container {
+    font-family: "Exo", sans-serif;
+    background-color: #060505;
+    color: #D4AF37;
+    margin: 0px;
+    padding-left: 20px;
+}
+
 .shows-head {
-    background-color: red; 
+    background-color: #D4AF37; 
+    color: #2d2c2a;
     margin-left: 10px;
     margin-right: 100px;    
     text-align: center;
@@ -298,8 +328,27 @@
     text-align: center;
     border-style: solid;
     padding-bottom: 20px;
+    background-color: white; 
+    color: #2d2c2a;
 }
 
+.subscription-container {
+    font-family: "Exo", sans-serif;
+    background-color: #060505;
+    color: #D4AF37;
+    margin: 0px;
+    padding-left: 20px;
+}
+
+.form-control {
+    width: 50%;
+}
+
+.btn--sign {
+    background-color: #d4af37;
+    color: #060505;
+    font-weight: bold;
+}
 /*----------------------footer*/
 
 .footer-container {

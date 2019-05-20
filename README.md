@@ -19,3 +19,28 @@ References and sources used -
  google free to use images for additional images 
 
 Testing - 
+
+
+modal - <!-- gallery      
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="media-images" data-toggle="modal" data-target="#BandImages1Modal">
+                       <img src="/assets/media/FoosGalleryImage1.jpg" class="img-square media-object" height=150 width=150 >
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="media-images" data-toggle="modal" data-target="#BandImages2Modal">
+                       <img src="/assets/media/FoosGalleryImage2.jpg" class="img-square media-object" height=150 width=150 >
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="media-images" data-toggle="modal" data-target="#BandImages3Modal">
+                       <img src="/assets/media/FoosGalleryImage3.jpg" class="img-square media-object" height=150 width=150 >
+                    </div>
+                </div>
+                <div class="col-md-3" data-toggle="modal" data-target="#BandImages4Modal">
+                    <div class="media-images">
+                       <img src="/assets/media/FoosGalleryImage4.jpg" class="img-square media-object" height=150 width=150 >
+                    </div>
+                
+            -->
