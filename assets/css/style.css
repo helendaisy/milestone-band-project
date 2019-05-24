@@ -352,6 +352,13 @@
     color: #2d2c2a;
 }
 
+.btn--tickets {
+    color: #2d2c2a;
+    background-color:#ead79b;
+    border-color: #8a8576;
+    font-weight: 400;
+}
+
 .subscription-container {
     font-family: "Exo", sans-serif;
     background-color: #060505;
