@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:100,200,300,400,500,600,700');
 /*----------------------colors*/
 
 
@@ -22,7 +22,7 @@
 
 .navbar .navbar-brand {
     font-weight: 700;
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     color : #D4AF37;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .navbar-nav {
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     font-weight: 500;
 }
 
@@ -161,7 +161,7 @@
 .bio-container {
     background-color: black;
     color: #D4AF37;
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
 }
 
 .bio {
@@ -184,7 +184,7 @@
 .member-container {
     background-color: #060505;
     color: #D4AF37;
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     margin: 0;
     padding: 0;
     padding-top: 20px;
@@ -212,7 +212,7 @@
 }
 
 .modal-content {
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     background-color: #2d2c2a;
     color: #D4AF37;
 }
@@ -220,7 +220,7 @@
 /*----------------------media*/
 
 .foos-container {
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     background-color: #060505;
     color: #D4AF37;
 }
@@ -259,6 +259,8 @@
     background-color:#D4AF37;
     font-weight: 600;
 }
+
+/*----------------------video*/
 
 .responsive-video {
     position: relative;
@@ -305,7 +307,7 @@
 /*----------------------calendar*/
 
 .dates-container {
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     background-color: #060505;
     color: #D4AF37;
     padding-left: 20px;
@@ -359,8 +361,10 @@
     font-weight: 400;
 }
 
+/*----------------------subscribe section*/
+
 .subscription-container {
-    font-family: "Exo", sans-serif;
+    font-family: "Archivo+Narrow", sans-serif;
     background-color: #060505;
     color: #D4AF37;
     padding-left: 20px;
@@ -398,13 +402,12 @@
     }
 }
 
-
-
 .btn--sign {
     background-color: #d4af37;
     color: #060505;
     font-weight: bold;
 }
+
 /*----------------------footer*/
 
 .footer-container {
