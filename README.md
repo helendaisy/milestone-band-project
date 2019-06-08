@@ -91,26 +91,50 @@ recent album released by the band. It has stright lines and is a simple, easy to
 
 [link to Balsamiq] (www.) 
 
+## Features 
 
+### Existing Features 
+
+### Future Feature Implementation 
+
+## Technologies Used  
+
+## Testing
+
+## Deployment 
+
+## Credits 
+
+### Content 
+Content in this project was written by the creator - Helen Neal, using information taken from the following Wikipedia pages 
+- <https://en.wikipedia.org/wiki/Foo_Fighters>
+- <https://en.wikipedia.org/wiki/Dave_Grohl> 
+- <https://en.wikipedia.org/wiki/Nate_Mendel>
+- <https://en.wikipedia.org/wiki/Pat_Smear>
+- <https://en.wikipedia.org/wiki/Taylor_Hawkins>
+- <https://en.wikipedia.org/wiki/Chris_Shiflett>
+- <https://en.wikipedia.org/wiki/Rami_Jaffee>
+
+### Media 
+ - images 
+ - video  
+ - audio 
+
+### Code 
 
 
 
 
 Requirements - Build a website to demonstrate learnings of the HTML, CSS and User Centric Frontend Development Modules 
 
-About the client -   
+  
 
 Brief - Build a responsive website for the band to showcase their catalogue of music, images, videos and social media channels as well as 
 advertising their ability to play events. Site should be responsive and suitable on all screen sizes and browsers. 
 
-Keywords - 
 
 
 
-References and sources used - 
-  
- google free to use images for additional images 
 
-Testing - 
 
 Helen Neal User Centric Frontend Milestone Project
