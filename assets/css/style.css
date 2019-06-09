@@ -70,7 +70,7 @@
 /*----------------------headers*/
 
 .homepage-container {
-    height: 70vh;
+    height: 80vh;
     padding-left: 0;
     padding-right: 0;
     background: url('../media/FoosHomeImage.jpg') no-repeat center center;
@@ -86,7 +86,7 @@
 }
 
 .band-container {
-    height: 70vh;
+    height: 80vh;
     padding-left: 0;
     padding-right: 0;
     background: url('../media/FoosBandBWPhoto.jpg') no-repeat center center;
@@ -103,7 +103,7 @@
 }
 
 .media-container {
-    height: 70vh;
+    height: 80vh;
     padding-left: 0;
     padding-right: 0;
     background: url('../media/FoosGif.gif') no-repeat center center;
@@ -120,7 +120,7 @@
 }
 
 .calendar-container {
-    height: 70vh;
+    height: 80vh;
     padding-left: 0;
     padding-right: 0;
     background: url('../media/FoosTourPhoto.jpg') no-repeat center center;
@@ -136,19 +136,7 @@
     position: relative;
 }
 
-/*----------------------remove
 
-.hero-image { 
-    color: #fcf8e3;
-    background-color: rgba(0,0,0, 0.22);
-    height: 25px;
-    margin-bottom: 0;
-    vertical-align: middle;
-    text-align: center;
-}
-
-
-*/
 
 .container-fluid .hero-image {
     position: relative;
