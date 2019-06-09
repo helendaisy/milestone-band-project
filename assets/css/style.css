@@ -73,7 +73,7 @@
     height: 70vh;
     padding-left: 0;
     padding-right: 0;
-    background: url('/assets/media/FoosHomeImage.jpg') no-repeat center center;
+    background: url('../media/FoosHomeImage.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -89,7 +89,7 @@
     height: 70vh;
     padding-left: 0;
     padding-right: 0;
-    background: url('/assets/media/FoosBandBWPhoto.jpg') no-repeat center center;
+    background: url('../media/FoosBandBWPhoto.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -106,7 +106,7 @@
     height: 70vh;
     padding-left: 0;
     padding-right: 0;
-    background: url('/assets/media/FoosGif.gif') no-repeat center center;
+    background: url('../media/FoosGif.gif') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -123,7 +123,7 @@
     height: 70vh;
     padding-left: 0;
     padding-right: 0;
-    background: url('/assets/media/FoosTourPhoto.jpg') no-repeat center center;
+    background: url('../media/FoosTourPhoto.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
