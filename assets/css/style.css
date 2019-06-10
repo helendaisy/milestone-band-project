@@ -155,6 +155,8 @@
 
 .bio {
     border: 0;
+    padding-left:75px;
+    padding-right:75px;
     margin-bottom: 30;
 }
 
