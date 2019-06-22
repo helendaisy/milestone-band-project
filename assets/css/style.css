@@ -368,42 +368,37 @@
 }
 
 
-
+/*----------------------mobile format*/
 @media (max-width: 767px) {
     .subscribe {
         text-align :center;
         padding-left: 20px;
         padding-right: 10px;
     } 
-    .form-control {
-        width: 100%;
-        display:block;
-    }
+    
 }
 
+/*----------------------tablet format*/
 @media (min-width: 768px) and (max-width: 991px) {
     
     .subscribe {
         text-align :center;
         margin-left:  50px;
     } 
-    .form-control {
-        width: 70%;
-        display:block;
-    }
+    
 }
 
+/*----------------------laptop format*/
 @media (min-width: 992px){
     
     .subscribe {
         text-align :center;
         margin-left:  50px;
     } 
-    .form-control {
-        width: 50%;
-        
-    }
+    
 }
+
+
 
 .subscribe-label {
     font-weight: 500;
