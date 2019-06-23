@@ -161,6 +161,11 @@
 }
 
 .page-header {
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+
+.homepage-content {
     border-bottom: 0;
     margin-top: 10px
 }
@@ -181,6 +186,12 @@
     padding-top: 20px;
 }
 
+.band-blurb {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 .band-images { 
     text-align: center;  
     padding-bottom: 15px;
@@ -367,6 +378,9 @@
     margin-bottom: 0px;
 }
 
+.subscription-container .subscribe {
+    margin-left: 0px;
+}
 
 /*----------------------mobile format*/
 @media (max-width: 767px) {
