@@ -137,7 +137,7 @@
 /*----------------------homepage*/
 
 .bio-container {
-    background-color: black;
+    background-color: #060505;
     color: #D4AF37;
     font-family: "Archivo+Narrow", sans-serif;
 }
@@ -165,7 +165,7 @@
 .about-image { 
     padding: 25px;
     text-align: center;
-    background-color: black;
+    background-color: #060505;
 }
 /*----------------------band info*/
 
@@ -219,7 +219,7 @@
 
 .modal-content {
     font-family: "Archivo+Narrow", sans-serif;
-    background-color: #2d2c2a;
+    background-color: #060505;
     color: #D4AF37;
 }
 
