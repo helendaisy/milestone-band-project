@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:100,200,300,400,500,600,700');
 /*----------------------colors*/
 
-.body {
-    background-color:#060505;
-}
+
 
 /*----------------------special paddings/margins/text*/
 
@@ -81,7 +79,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
 
@@ -97,8 +95,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-
-    
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
 
@@ -114,8 +111,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-
-    
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
 
@@ -131,8 +127,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-
-    
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
 
