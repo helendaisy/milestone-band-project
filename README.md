@@ -2,22 +2,6 @@
 
 (link to github page)
 
-## README Contents 
-1. UX 
-- Project Goals
-- User Goals
-- Developer and Business Goals
-- User stories
-- Design Choices 
-- Wireframes
-2. Features 
-3. Technologies Used 
-4. Testing 
-5. Deployment 
-6. Credits 
-7. Disclaimer 
-
-
 ## UX
 
 ### Project Goals 
@@ -29,19 +13,19 @@ on social media, buy or stream their music and videos and come along to their gi
 The target audience for this site is anyone aged 10 to 100 who isn't currently a fan of or aware of the Foo Fighters. 
 
 The information is split into simple bitesize areas rather than overloadng with details and content to highlight the key areas of the band 
-so that users can decide quickly if they want to explore more. 
+so that users can decide quickly if they want to explore more. The site should be responsive and suitable on all screen sizes and browsers. 
 
 ### User Goals 
 
-- learn about the band 
-- find out who is in the band 
-- hear a selection of their songs 
-- watch a music video 
-- see pictures of the band 
-- easily connect with their social media accounts 
-- easy ways to watch and listen to more music 
-- find out when they can go and watch a show 
-- connect for more information 
+- Learn about the band 
+- Find out who is in the band 
+- Hear a selection of their songs 
+- Watch a music video 
+- See pictures of the band 
+- Easily connect with their social media accounts 
+- Easy ways to watch and listen to more music 
+- Find out when they can go and watch a show 
+- Connect for more information 
 
 ### Developer and Business Goals: 
 
@@ -54,14 +38,16 @@ so that users can decide quickly if they want to explore more.
 
 ### User stories - 
 
-As a visitor to the site I want to - (As a user type, I want to perform an action, so that I can achieve a goal.)
+As a visitor to the site I want to -
 1. See straight away that I am on the right site for what I am looking for. 
 2. Navigate the site so that I can see the areas I'm interested in easily. 
 2. Learn about who the Foo Fighters are.
 3. See images of the band, to confirm this is the band I wanted to find out about and encourage me to want to listen to them. 
 4. Easily have a way to engage further and find out more than is initially available on the site. 
 5. Find out more about each of the band members, so I can choose my favourite.  
-6. Listen to 
+6. Listen to a selection of popular songs that may be familiar or brand new to hopefully develop a liking for the band and then easily have a way to listen to more. 
+7. Watch a music video to see the band in action. 
+8. Find out when I can see them in concert and have easy links to buy tickets.
 
 
 ### Design Choices 
@@ -150,12 +136,6 @@ Color selection made using -
 
 
 
-Requirements - Build a website to demonstrate learnings of the HTML, CSS and User Centric Frontend Development Modules 
-
-  
-
-Brief - Build a responsive website for the band to showcase their catalogue of music, images, videos and social media channels as well as 
-advertising their ability to play events. Site should be responsive and suitable on all screen sizes and browsers. 
 
 
 
