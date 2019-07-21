@@ -26,7 +26,10 @@ This website is a one-stop shop for people who want to find out about the band F
 history, a selection of their biggest hits and a music video and images of the band to introduce people to the band and entice them to engage 
 on social media, buy or stream their music and videos and come along to their gigs. Essentially to convert people to become fans of the band. 
 
-The target audience for this site is anyone aged 10 to 100 who isn't currently a fan of the Foo Fighters 
+The target audience for this site is anyone aged 10 to 100 who isn't currently a fan of or aware of the Foo Fighters. 
+
+The information is split into simple bitesize areas rather than overloadng with details and content to highlight the key areas of the band 
+so that users can decide quickly if they want to explore more. 
 
 ### User Goals 
 
@@ -42,7 +45,8 @@ The target audience for this site is anyone aged 10 to 100 who isn't currently a
 
 ### Developer and Business Goals: 
 
-- Provide a smooth user experience 
+- Provide a smooth user experience
+- Build awareness of the band
 - Drive streams via links to other sites 
 - Build engagement and following through links to social platforms 
 - Drive ticket sales to shows 
@@ -50,10 +54,15 @@ The target audience for this site is anyone aged 10 to 100 who isn't currently a
 
 ### User stories - 
 
-Visitors to the site want to - (As a user type, I want to perform an action, so that I can achieve a goal.)
-1. xx 
-2. xxx 
-3. xxxx
+As a visitor to the site I want to - (As a user type, I want to perform an action, so that I can achieve a goal.)
+1. See straight away that I am on the right site for what I am looking for. 
+2. Navigate the site so that I can see the areas I'm interested in easily. 
+2. Learn about who the Foo Fighters are.
+3. See images of the band, to confirm this is the band I wanted to find out about and encourage me to want to listen to them. 
+4. Easily have a way to engage further and find out more than is initially available on the site. 
+5. Find out more about each of the band members, so I can choose my favourite.  
+6. Listen to 
+
 
 ### Design Choices 
 
@@ -66,8 +75,9 @@ recent album released by the band. It has stright lines and is a simple, easy to
 
 #### Icons 
 
-- standard icons for brands such as spotify, apple, social media used for familiarity of the user 
-- mainpage has the Foo Fighters Logo from the most recent album as an icon header creating recognition when the user goes to buy or stream the album 
+- Standard icons for brands such as spotify, apple, social media used for familiarity of the user 
+- Mainpage has the Foo Fighters Logo from the most recent album as an icon header creating recognition when the user goes to buy or stream the album 
+- Favicon is the same as the logo used through the site to provide consistency 
 
 #### Colours
 
@@ -97,7 +107,18 @@ recent album released by the band. It has stright lines and is a simple, easy to
 
 ### Future Feature Implementation 
 
-## Technologies Used  
+## Technologies Used 
+
+- HTML ~ main Language used to structure the individual pages of the website.
+- CSS ~ styling language used to format and visually build upon the accompanying HTML.
+- Bootstrap Framework ~ Used as the core structuring of the website, ensuring mobile-first design and responsive size display. 3.3.7 used as the project was started prior to release of 4. 
+- Cloud9 IDE & Terminal ~ Used as the IDE for this project and to commit to local repository and push to GitHub.
+- Github ~ Used to host the deployed website and repository of all previous versions of the build.
+- Google Chrome Developer Tools ~ Used as the core test phase throughout the project build life, testing the responsiveness of elements and CSS visuals.
+- <HTMLcolorcodes> (https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
+- Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
+- Balsamiq - used as above for the mock up wireframes. 
+- Pen & Paper ~ Used for the Creation of Wireframes.
 
 ## Testing
 
@@ -114,6 +135,10 @@ Content in this project was written by the creator - Helen Neal, using informati
 - <https://en.wikipedia.org/wiki/Taylor_Hawkins>
 - <https://en.wikipedia.org/wiki/Chris_Shiflett>
 - <https://en.wikipedia.org/wiki/Rami_Jaffee>
+
+Color selection made using - 
+- <https://htmlcolorcodes.com/color-picker/>
+- <https://www.rapidtables.com/web/color/Gold_Color.html> 
 
 ### Media 
  - images 
