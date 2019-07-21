@@ -39,6 +39,7 @@ so that users can decide quickly if they want to explore more. The site should b
 ### User stories - 
 
 As a visitor to the site I want to -
+
 1. See straight away that I am on the right site for what I am looking for. 
 2. Navigate the site so that I can see the areas I'm interested in easily. 
 2. Learn about who the Foo Fighters are.
@@ -56,14 +57,15 @@ The overall feel of the site should be simple and clean and inkeeping with the b
 The following choices were made with this in mind. 
 
 #### Fonts 
+
 The font chosen is Archivo narrow which is in line with the rest of the styling inkeeping with the style of the most 
 recent album released by the band. It has stright lines and is a simple, easy to read font. 
 
 #### Icons 
 
-- Standard icons for brands such as spotify, apple, social media used for familiarity of the user 
-- Mainpage has the Foo Fighters Logo from the most recent album as an icon header creating recognition when the user goes to buy or stream the album 
-- Favicon is the same as the logo used through the site to provide consistency 
+- Standard icons for brands such as spotify, apple, social media used for familiarity of the user. 
+- Mainpage has the Foo Fighters Logo from the most recent album as an icon header creating recognition when the user goes to buy or stream the album. 
+- Favicon is the same as the logo used through the site to provide consistency throughout.
 
 #### Colours
 
@@ -85,7 +87,7 @@ recent album released by the band. It has stright lines and is a simple, easy to
 
 ### Wireframes 
 
-[link to Balsamiq] (www.) 
+[link to Balsamiq](www.) 
 
 ## Features 
 
@@ -127,9 +129,28 @@ Color selection made using -
 - <https://www.rapidtables.com/web/color/Gold_Color.html> 
 
 ### Media 
- - images 
- - video  
- - audio 
+
+ - Video link embedded from Foo Fighters YouTube channel - <https://www.youtube.com/watch?v=SBjQ9tuuTJQ>    
+ - Audio files owned by the creator, purchased via Itunes 
+ - Images taken from the following sites/owners ~ 
+    - [Logo](https://www.foofighterslive.com/news/review-foo-fighters-concrete-and-gold/)
+    - [Favicon](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi48oboscbjAhUx0uAKHUFzCiIQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ppgpaintsarena.com%2Fevents%2Fdetail%2Ffoo-fighters&psig=AOvVaw3WezcXXCaO71apHmUZYfSB&ust=1563811412825712)
+    - [Home Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwigs6z4tsbjAhWMDWMBHfbEC_4QjRx6BAgBEAU&url=https%3A%2F%2Fblog.ticketmaster.co.nz%2Fmusic%2Ffoo-fighters-playing-mt-smart-stadium-2018-1435&psig=AOvVaw0iqao32SMYkF6pQfqUp6Xo&ust=1563812837958915)
+    - [Home Page Gallery Image 1](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZjJPnucbjAhV57OAKHes1AnQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.alternativenation.net%2Fdave-grohl-owed-huge-money-foo-fighters-bandmates%2F&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
+    - [Home Page Gallery Image 2](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjtlIj2vMbjAhXvzoUKHa_5DGIQjRx6BAgBEAU&url=https%3A%2F%2Fwxrt.radio.com%2Ffoo-fighters-chicago-pop-up-shop&psig=AOvVaw3gdJLO1aj9vhusCOlhOaKN&ust=1563814437753578)
+    - [Home Page Gallery Image 3](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi6zMiEu8bjAhWkxoUKHYgRBowQjRx6BAgBEAU&url=https%3A%2F%2Fwww.livedesignonline.com%2Fbriefing-room%2Fphilips-vl6000-beams-deliver-knock-out-punch-foo-fighters&psig=AOvVaw2Tdv5T-9aE8BFke0pVeVeD&ust=1563813867743978)
+    - [Home Page Gallery Image 4](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwitg_-wusbjAhWJx4UKHVsNAEcQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFoo_Fighters&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
+    - [Band Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjP75bItcbjAhV77OAKHW5bCccQjRx6BAgBEAU&url=https%3A%2F%2Fwww.croatiaweek.com%2Ffoo-fighters-announce-croatia-concert-date%2F&psig=AOvVaw186z1QDXgnsief6mQU2wL7&ust=1563812404370413)
+    - [Band Page Individual Images](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjS_OL1ucbjAhWs0eAKHSnWDXcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.seattleweekly.com%2Farts%2Fpick-list-foo-fighters-ww1-america-kim-brooks%2F&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
+    - [Modal Individual Image DG](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiQmbC8vsbjAhWjy4UKHb_dDCwQjRx6BAgBEAU&url=https%3A%2F%2Fmytownrocks.net%2Flivemusicnews%2Fgrohl-13%2F&psig=AOvVaw1MFE2qZWAn04Ap0vEv608_&ust=1563814840403787)
+    - [Modal Individual Image TH](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnseqWv8bjAhUQxoUKHR1eBMYQjRx6BAgBEAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FTaylor_Hawkins&psig=AOvVaw0ZZjOXaWcKfCO7rSPGYf9n&ust=1563815041088080)
+    - [Modal Individual Image NM](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjkqs6lv8bjAhWqyoUKHXb3BH8QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNate_Mendel&psig=AOvVaw0FHTPWdPVGype-UKiVy4WZ&ust=1563815078153196)
+    - [Modal Individual Image PS](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjK7vaxv8bjAhXCy4UKHffaB38QjRx6BAgBEAU&url=https%3A%2F%2Fno.wikipedia.org%2Fwiki%2FPat_Smear&psig=AOvVaw1lu2cIyd9RcVK32n2YiMhs&ust=1563815107554576)
+    - [Modal Individual Image CS](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi8r-W8v8bjAhVGrxoKHVX8C60QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChris_Shiflett&psig=AOvVaw1ViKqOsosxcMKHl8MbQQmC&ust=1563815129299945)
+    - [Modal Individual Image RJ](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjGz_7Fv8bjAhWvyoUKHUSmCGIQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRami_Jaffee&psig=AOvVaw3ZTU-BzRGuhATACBLhYICM&ust=1563815149443776)
+    - [Media Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjAmIWSwcbjAhUDTBoKHUcxD_EQjRx6BAgBEAU&url=http%3A%2F%2Frollingstone.tumblr.com%2Fpost%2F164532991401&psig=AOvVaw2qI9GNLGcdUs7pKeuXmjZy&ust=1563815197897965)
+    - [Media Page Greatest Hits Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F35%2FFooFightersGreatestHits.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreatest_Hits_(Foo_Fighters_album)&docid=-bpOHJpUh2mrmM&tbnid=NQ6oAmGvYBadtM%3A&vet=10ahUKEwiKnLi6wcbjAhWGyoUKHc4VBSEQMwhNKAEwAQ..i&w=220&h=220&hl=en-GB&bih=576&biw=1366&q=foo%20fighters%20greatest%20hits%20&ved=0ahUKEwiKnLi6wcbjAhWGyoUKHc4VBSEQMwhNKAEwAQ&iact=mrc&uact=8)
+    - [Shows Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjni8GpwcbjAhUhzIUKHaX2AuQQjRx6BAgBEAU&url=https%3A%2F%2Fcellcode.us%2Fquotes%2Fchicago-tickets-fighters-foo.html&psig=AOvVaw18bWKn7fLT9GZ24j5Dv4e0&ust=1563815624332478)
 
 ### Code 
 
@@ -140,6 +161,6 @@ Color selection made using -
 
 
 
-
+The content of this Website is for educational purposes only.
 
 Helen Neal User Centric Frontend Milestone Project
