@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,500,600,700');
 
+/*----------------------special padding*/
+
+.row {
+    margin: 0;
+}
+
 /*----------------------navbar*/
 
 .navbar {
@@ -205,8 +211,10 @@
     border-bottom: 0px;
 }
 
-.modal-header .close {
+.modal-content .modal-header .close {
     color: #ffffff;
+    opacity:1;
+    font-weight: 400;
 }
 
 .modal-content {
