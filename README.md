@@ -103,7 +103,7 @@ recent album released by the band. It has stright lines and is a simple, easy to
 - Cloud9 IDE & Terminal ~ Used as the IDE for this project and to commit to local repository and push to GitHub.
 - Github ~ Used to host the deployed website and repository of all previous versions of the build.
 - Google Chrome Developer Tools ~ Used as the core test phase throughout the project build life, testing the responsiveness of elements and CSS visuals.
-- <HTMLcolorcodes> (https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
+- [HTMLcolorcodes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
 - Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
 - Balsamiq - used as above for the mock up wireframes. 
 - Pen & Paper ~ Used for the Creation of Wireframes.
@@ -154,10 +154,15 @@ Color selection made using -
 
 ### Code 
 
+- CSS code for customising Navbar taken from <https://colorlib.com/wp/forums/topic/customizing-mobile-hamburger-menu-color-size-text/> and then edited. 
 
+- Code to embed YouTube video on the media page taken from <https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap> and then edited to suit. 
 
+- Code for carousel of gellery images on index.html page taken from <https://getbootstrap.com/docs/3.4/javascript/#carousel> and then edited to suit.
 
+- Documentation for additional support with media queries and navbar reviewed on the following pages <https://getbootstrap.com/docs/3.3/css/#grid-media-queries> and <https://getbootstrap.com/docs/3.3/components/#navbar>
 
+- <https://fonts.google.com/> reviewed when deciding on font styling for the site. 
 
 
 
