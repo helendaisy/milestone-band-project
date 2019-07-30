@@ -27,7 +27,7 @@ so that users can decide quickly if they want to explore more. The site should b
 - Find out when they can go and watch a show 
 - Connect for more information 
 
-### Developer and Business Goals: 
+### Developer and Site Goals: 
 
 - Provide a smooth user experience
 - Build awareness of the band
@@ -61,18 +61,24 @@ The following choices were made with this in mind.
 The font chosen is Archivo narrow which is in line with the rest of the styling inkeeping with the style of the most 
 recent album released by the band. It has stright lines and is a simple, easy to read font. 
 
+<https://fonts.google.com/> reviewed when deciding on font styling for the site. 
+
 #### Icons 
 
 - Standard icons for brands such as spotify, apple, social media used for familiarity of the user. 
 - Mainpage has the Foo Fighters Logo from the most recent album as an icon header creating recognition when the user goes to buy or stream the album. 
 - Favicon is the same as the logo used through the site to provide consistency throughout.
 
-#### Colours
+#### Colors
 
-- navbar colours and why 
-- main page background colour 
-- font / highlight colour 
-- calendar colour 
+- Background color throughout #060505 selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
+- Font color #D4AF37 used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
+- Band info page close button on modal made #ffffff for ease of user to identify how to close the window. 
+- Calendar color #D4AF37 for header and #f9f2e0 for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
+
+Color selection made using - 
+- <https://htmlcolorcodes.com/color-picker/>
+- <https://www.rapidtables.com/web/color/Gold_Color.html> 
 
 #### Styling 
 
@@ -94,6 +100,11 @@ recent album released by the band. It has stright lines and is a simple, easy to
 ### Existing Features 
 
 ### Future Feature Implementation 
+
+- GDPR / Cookies pop up screen to ensure compliance with latest data protection laws - Javascript needed  
+- Pop-up box confirming successful subscription to mailing list - Javascript needed 
+- Feed from the Foo Fighters Instagram page to show the latest updates from the band - Javascript needed 
+
 
 ## Technologies Used 
 
@@ -124,9 +135,7 @@ Content in this project was written by the creator - Helen Neal, using informati
 - <https://en.wikipedia.org/wiki/Chris_Shiflett>
 - <https://en.wikipedia.org/wiki/Rami_Jaffee>
 
-Color selection made using - 
-- <https://htmlcolorcodes.com/color-picker/>
-- <https://www.rapidtables.com/web/color/Gold_Color.html> 
+
 
 ### Media 
 
@@ -156,13 +165,12 @@ Color selection made using -
 
 - CSS code for customising Navbar taken from <https://colorlib.com/wp/forums/topic/customizing-mobile-hamburger-menu-color-size-text/> and then edited. 
 
-- Code to embed YouTube video on the media page taken from <https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap> and then edited to suit. 
+- Code to embed YouTube video on the media.html page taken from <https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap> and then edited to suit. 
 
 - Code for carousel of gellery images on index.html page taken from <https://getbootstrap.com/docs/3.4/javascript/#carousel> and then edited to suit.
 
 - Documentation for additional support with media queries and navbar reviewed on the following pages <https://getbootstrap.com/docs/3.3/css/#grid-media-queries> and <https://getbootstrap.com/docs/3.3/components/#navbar>
 
-- <https://fonts.google.com/> reviewed when deciding on font styling for the site. 
 
 
 
