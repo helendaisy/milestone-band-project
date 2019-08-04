@@ -214,6 +214,28 @@ Each calendar section contains a button taking the user to a ticket site where t
 
 ## Deployment 
 
+This project has been created using the cloud9 IDE. It was committed to Git and pushed to GitHub using the built in function within cloud9. 
+
+In order to deploy this project to GitHub Pages from it's repository the following actions were completed - 
+- Log in to GitHub 
+- Select milestone-band-project from the list of repositories. 
+- From the menu under the heading helendaisy/milestone-band-project go to Settings. 
+- Scroll to the GitHub Pages section. 
+- Change the drop down menu under *Source* from *None* to *Master Branch* 
+- This automatically refreshes the page and deploys the site. 
+- Scroll back to the *GitHub Pages* section for the live link to the site. 
+
+There are currently no differences between the development and deployed versions of the site. 
+
+To run this project locally it can be cloned from GitHub using the following method - 
+- Go to the project's [GitHub Repository](https://github.com/helendaisy/milestone-band-project)
+- Click the green *Clone or download* dropdown. 
+- Copy the Clone with HTTPS URL provided. 
+- Open GitBash in your chosen IDE 
+- Change the directory to where you want the cloned directory to be copied. 
+- Type *git clone* and paste the copied URL, press enter. 
+- Your local copy should now be created. 
+
 ## Credits 
 
 ### Content 
