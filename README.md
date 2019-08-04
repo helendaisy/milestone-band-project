@@ -82,7 +82,10 @@ Color selection made using -
 
 #### Styling 
 
-- styles 
+- Each page is styled with a strong cover image giving an indication of the content of the page.
+- Cover images across all pages styled at 80% screen height across all devices with the page header visible under the image to encourage user to scroll down to see the rest of the content. 
+- Footer icons styled at 30px so they are easily noticed. Standard icons of the logo of each social media and brand and music streaming service used for user familiarity. 
+- The homepage uses the logo used in the favicon which is taken from the most recent album. This is then used down the page to break up areas of text and show a clear divide between various sections.  
 
 #### Backgrounds
 
@@ -98,6 +101,36 @@ Color selection made using -
 ## Features 
 
 ### Existing Features 
+
+#### All pages 
+
+Every page has the same navigation bar and footer on full screen and hamburger drop down menu and footer on smaller screen sizes. 
+
+**Navigaton bar** 
+- The navigation bar has the conventional styling of the site name in the left hand corner and links to each other page on the right hand side. 
+- This format was chosen as it is a well known website styling method and the user should find it easy to navigate. 
+- The hamburger drop down menu for mobile devices again is a familiar style for these sites and links to each individual page.
+**Footer** 
+- The footer contains 4 clear sections which are view horizontally on a wider screen and vertically on smaller screen sizes. 
+- The first section *Follow Us* highlights the links to the social media accounts of the band as a quick simple way to encourage further engagement.
+- The second section *Buy Music* provides links to the music purchase and streaming sites to allow the user to listen to more. Giving even more option to the user and driving sales for the band. 
+- The third section *Find Out More* links to the subscribe section on the [home page](add in homepage link) so that from each page the user can quickly get back to subscribe for further updates.  
+- The fourth section adds in the commentary around the creator of the site. 
+
+#### Homepage
+**Text** 
+
+**Images** 
+
+**Subscribe** 
+
+#### The Band Page 
+
+#### Listen Page 
+
+#### Shows Page 
+
+
 
 ### Future Feature Implementation 
 
@@ -134,8 +167,6 @@ Content in this project was written by the creator - Helen Neal, using informati
 - <https://en.wikipedia.org/wiki/Taylor_Hawkins>
 - <https://en.wikipedia.org/wiki/Chris_Shiflett>
 - <https://en.wikipedia.org/wiki/Rami_Jaffee>
-
-
 
 ### Media 
 
