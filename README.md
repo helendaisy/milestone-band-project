@@ -106,6 +106,7 @@ Color selection made using -
 
 Every page has the same navigation bar and footer on full screen and hamburger drop down menu and footer on smaller screen sizes. 
 Each page also has a large cover image to get the attention of the user and give an indication to the content of the page.
+All external links are set up to open in new windows so the user doesn't use their place on this page and can easily come back to it. 
 
 **Navigaton bar** 
 - The navigation bar has the conventional styling of the site name in the left hand corner and links to each other page on the right hand side. 
@@ -130,24 +131,48 @@ It is written in short paragraphs so the user isn't put off by large chunks of t
 - The link to the instagram page is placed below the images to encourage the user to engage further. 
 
 **Subscribe** 
-
+This section is a call to action for the user to enter their email address and obtain regular updates about the band. 
+It is a simple instruction to enter their email address into the text box and then a sign up button to submit the data. 
+There is an error feature if the information entered is not in a correct email address format. 
 
 
 #### [The Band Page](add in bandpage link)
 **Band Images**
+This page has split a full image of the band into the indvidual members so the user and learn quickly and simpy who is who. 
+An image with a white background was used to really grab the attention of the user. 
+The mouse is formatted to change when hovering over each image to indicate that the user can click into each image to find out more. 
 
 **Individual Pop-Ups** 
-
+The modal pop up box contains - 
+- A header with the name of the member, their role within the band and how long they have been a part of the group. 
+- An image of the individual performing or on stage is then used to entice the user to want to see and hear the band perform. 
+- Date of birth is listed as a common question when learning about someone for the first time is "How old are they?"
+- A brief paragraph about the individual and their history and role within the band to help the user learn more about the band. 
+- The close box is highlighted in a contrasting pale color to make it really clear to the user how to get out of the window. 
 
 #### [Listen Page](add in listen page link)
+
+A gif taken from a music video is used here as the cover image. Gifs are a popular tool in communication concisely showing the point of the page.  
+The movement here shows the user that this is a more interactive page and gives an insight into them performing. 
+
 **Listen** 
+- The Greatest Hits image used is the cover of the album so that when the user goes on to purchase or stream the songs they will easily recognise the album. 
+- 5 of the most popular songs have been chosen to give the user a sample of the band. If the user is unaware of the band these songs will probably be the most recognisible and encourage further listening. 
+- The title of the song and a simple media play bar is used as this will be familiar to users who listen to music on line. 
+- It allows the user to play and pause the song and change the volume easily. 
+- There are buttons inviting the listener to listen further through their choice of music streaming. The two most popular have been used as it is likely people will be aware of one or both. 
 
 **Watch** 
+A Youtube video is hosted here with the music video of another popular Foo Fighters song. Different to the ones in the listen section giving further choice to the user. 
+Most users are familiar with the layout and look of a youtube link. Clicking anywhere on the cover image will play the video with options to pause, change volume and alter to full screen. 
+Below the video is a button to take the user to the band YouTube page to watch more videos. 
 
 
 #### [Shows Page](add in shows page link) 
 **Upcoming Shows** 
-
+The cover image is taken from the tour and features the same logo used throughout the site again providing familiarity. The use of a stage indicates that this is the page relating to live perfomances. 
+This is a simple page in a calendar style so the user can easily see upcoming tour dates, locations and the names of the events. 
+Each calendar section contains a button taking the user to a ticket site where they can purchase tickets to the event. 
 
 ### Future Feature Implementation 
 
