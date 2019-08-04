@@ -1,6 +1,6 @@
 # Foo Fighters Website 
 
-(link to github page)
+<https://helendaisy.github.io/milestone-band-project/>
 
 ## UX
 
