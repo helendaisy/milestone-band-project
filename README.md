@@ -278,11 +278,11 @@ Content in this project was written by the creator - Helen Neal, using informati
 
 - Code to embed YouTube video on the media.html page taken from <https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap> and then edited to suit. 
 
-- Code for carousel of gellery images on index.html page taken from <https://getbootstrap.com/docs/3.4/javascript/#carousel> and then edited to suit.
+- Code for carousel of gallery images on index.html page taken from <https://getbootstrap.com/docs/3.4/javascript/#carousel> and then edited to suit.
 
 - Documentation for additional support with media queries and navbar reviewed on the following pages <https://getbootstrap.com/docs/3.3/css/#grid-media-queries> and <https://getbootstrap.com/docs/3.3/components/#navbar>
 
-
+- Tips for sending a the footer link to the subscription section of the home page <https://stackoverflow.com/questions/15481911/linking-to-a-specific-part-of-a-web-page>
 
 
 The content of this Website is for educational purposes only.
