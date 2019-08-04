@@ -105,6 +105,7 @@ Color selection made using -
 #### All pages 
 
 Every page has the same navigation bar and footer on full screen and hamburger drop down menu and footer on smaller screen sizes. 
+Each page also has a large cover image to get the attention of the user and give an indication to the content of the page.
 
 **Navigaton bar** 
 - The navigation bar has the conventional styling of the site name in the left hand corner and links to each other page on the right hand side. 
@@ -117,19 +118,35 @@ Every page has the same navigation bar and footer on full screen and hamburger d
 - The third section *Find Out More* links to the subscribe section on the [home page](add in homepage link) so that from each page the user can quickly get back to subscribe for further updates.  
 - The fourth section adds in the commentary around the creator of the site. 
 
-#### Homepage
+#### [Homepage](add in homepage link)
 **Text** 
+Text is used as you scroll down the page giving the user a brief background into the band. 
+It is written in short paragraphs so the user isn't put off by large chunks of text and encourages them to keep scrolling down the page. 
 
 **Images** 
+- A carousel of 4 images of the band gives a highlight reel of a mixture of the band performing and in group photos.
+- The stage photos have been chosed to highlight the energy and size of a live performance to encourage the user to buy tickets. 
+- The group shots are selected to show the group as a whole as a new fan might only be familiar with one or two members. 
+- The link to the instagram page is placed below the images to encourage the user to engage further. 
 
 **Subscribe** 
 
-#### The Band Page 
 
-#### Listen Page 
 
-#### Shows Page 
+#### [The Band Page](add in bandpage link)
+**Band Images**
 
+**Individual Pop-Ups** 
+
+
+#### [Listen Page](add in listen page link)
+**Listen** 
+
+**Watch** 
+
+
+#### [Shows Page](add in shows page link) 
+**Upcoming Shows** 
 
 
 ### Future Feature Implementation 
