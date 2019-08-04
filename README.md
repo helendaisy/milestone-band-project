@@ -96,11 +96,11 @@ Color selection made using -
 
 ### Wireframes 
 
-[Home Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/homepagewireframe.png) 
-[Band Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/bandpagewireframe.png) 
-[Listen Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/listenwireframe.png) 
-[Calendar Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/calendarwireframe.png) 
-[Contact Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/contactwireframe.png) 
+- [Home Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/homepagewireframe.png) 
+- [Band Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/bandpagewireframe.png) 
+- [Listen Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/listenpagewireframe.png) 
+- [Calendar Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/calendarwireframe.png) 
+- [Contact Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/contactwireframe.png) 
 
 Balsamiq was used to wireframe the project in the initial planning stages. As the project developed some aspects changed inlcuding - 
 - Making the homepage more of a feature and more interactive by adding in the gallery section from the Music page. 
