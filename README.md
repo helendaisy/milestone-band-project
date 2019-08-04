@@ -96,10 +96,15 @@ Color selection made using -
 
 ### Wireframes 
 
-[link to Initial Balsamiq](www.) 
+[Home Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/homepagewireframe.png) 
+[Band Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/bandpagewireframe.png) 
+[Listen Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/listenwireframe.png) 
+[Calendar Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/calendarwireframe.png) 
+[Contact Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/contactwireframe.png) 
+
 Balsamiq was used to wireframe the project in the initial planning stages. As the project developed some aspects changed inlcuding - 
 - Making the homepage more of a feature and more interactive by adding in the gallery section from the Music page. 
-- Taking the subsricption "connect" section from a separate page to the bottom of the homepage. This provides a better flow and a simpler more user friendly site. 
+- Taking the subsricption "connect" section from the seperate contact page to the bottom of the homepage. This provides a better flow and a simpler more user friendly site. 
 - Social networking links were also taken from the top of the Navigation bar to a more prominent position in the footer to give the site a better aesthetic.
 - Text and Buttons were taken out of the cover hero images so they would have more impact. 
 - Return to previous page button was removed from the band member pop-up box and close icon made more prominent. 
