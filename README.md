@@ -72,9 +72,9 @@ recent album released by the band. It has stright lines and is a simple, easy to
 #### Colors
 
 - Background color throughout #060505 selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
-- Font color #D4AF37 used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
+- Font color #d4Af37 used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
 - Band info page close button on modal made #ffffff for ease of user to identify how to close the window. 
-- Calendar color #D4AF37 for header and #f9f2e0 for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
+- Calendar color #d4Af37 for header and #f9f2e0 for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
 
 Color selection made using - 
 - <https://htmlcolorcodes.com/color-picker/>
@@ -96,7 +96,13 @@ Color selection made using -
 
 ### Wireframes 
 
-[link to Balsamiq](www.) 
+[link to Initial Balsamiq](www.) 
+Balsamiq was used to wireframe the project in the initial planning stages. As the project developed some aspects changed inlcuding - 
+- Making the homepage more of a feature and more interactive by adding in the gallery section from the Music page. 
+- Taking the subsricption "connect" section from a separate page to the bottom of the homepage. This provides a better flow and a simpler more user friendly site. 
+- Social networking links were also taken from the top of the Navigation bar to a more prominent position in the footer to give the site a better aesthetic.
+- Text and Buttons were taken out of the cover hero images so they would have more impact. 
+- Return to previous page button was removed from the band member pop-up box and close icon made more prominent. 
 
 ## Features 
 
@@ -108,11 +114,12 @@ Every page has the same navigation bar and footer on full screen and hamburger d
 Each page also has a large cover image to get the attention of the user and give an indication to the content of the page.
 All external links are set up to open in new windows so the user doesn't use their place on this page and can easily come back to it. 
 
-**Navigaton bar** 
+##### Navigaton bar
 - The navigation bar has the conventional styling of the site name in the left hand corner and links to each other page on the right hand side. 
 - This format was chosen as it is a well known website styling method and the user should find it easy to navigate. 
 - The hamburger drop down menu for mobile devices again is a familiar style for these sites and links to each individual page.
-**Footer** 
+
+##### Footer 
 - The footer contains 4 clear sections which are view horizontally on a wider screen and vertically on smaller screen sizes. 
 - The first section *Follow Us* highlights the links to the social media accounts of the band as a quick simple way to encourage further engagement.
 - The second section *Buy Music* provides links to the music purchase and streaming sites to allow the user to listen to more. Giving even more option to the user and driving sales for the band. 
@@ -120,29 +127,32 @@ All external links are set up to open in new windows so the user doesn't use the
 - The fourth section adds in the commentary around the creator of the site. 
 
 #### [Homepage](add in homepage link)
-**Text** 
+
+##### Text 
+
 Text is used as you scroll down the page giving the user a brief background into the band. 
 It is written in short paragraphs so the user isn't put off by large chunks of text and encourages them to keep scrolling down the page. 
 
-**Images** 
+##### Images 
 - A carousel of 4 images of the band gives a highlight reel of a mixture of the band performing and in group photos.
 - The stage photos have been chosed to highlight the energy and size of a live performance to encourage the user to buy tickets. 
 - The group shots are selected to show the group as a whole as a new fan might only be familiar with one or two members. 
 - The link to the instagram page is placed below the images to encourage the user to engage further. 
 
-**Subscribe** 
+##### Subscribe 
 This section is a call to action for the user to enter their email address and obtain regular updates about the band. 
 It is a simple instruction to enter their email address into the text box and then a sign up button to submit the data. 
 There is an error feature if the information entered is not in a correct email address format. 
 
 
 #### [The Band Page](add in bandpage link)
-**Band Images**
+
+##### Band Images
 This page has split a full image of the band into the indvidual members so the user and learn quickly and simpy who is who. 
 An image with a white background was used to really grab the attention of the user. 
 The mouse is formatted to change when hovering over each image to indicate that the user can click into each image to find out more. 
 
-**Individual Pop-Ups** 
+##### Individual Pop-Ups
 The modal pop up box contains - 
 - A header with the name of the member, their role within the band and how long they have been a part of the group. 
 - An image of the individual performing or on stage is then used to entice the user to want to see and hear the band perform. 
@@ -155,21 +165,22 @@ The modal pop up box contains -
 A gif taken from a music video is used here as the cover image. Gifs are a popular tool in communication concisely showing the point of the page.  
 The movement here shows the user that this is a more interactive page and gives an insight into them performing. 
 
-**Listen** 
+##### Listen 
 - The Greatest Hits image used is the cover of the album so that when the user goes on to purchase or stream the songs they will easily recognise the album. 
 - 5 of the most popular songs have been chosen to give the user a sample of the band. If the user is unaware of the band these songs will probably be the most recognisible and encourage further listening. 
 - The title of the song and a simple media play bar is used as this will be familiar to users who listen to music on line. 
 - It allows the user to play and pause the song and change the volume easily. 
 - There are buttons inviting the listener to listen further through their choice of music streaming. The two most popular have been used as it is likely people will be aware of one or both. 
 
-**Watch** 
+##### Watch 
 A Youtube video is hosted here with the music video of another popular Foo Fighters song. Different to the ones in the listen section giving further choice to the user. 
 Most users are familiar with the layout and look of a youtube link. Clicking anywhere on the cover image will play the video with options to pause, change volume and alter to full screen. 
 Below the video is a button to take the user to the band YouTube page to watch more videos. 
 
 
 #### [Shows Page](add in shows page link) 
-**Upcoming Shows** 
+
+##### Upcoming Shows
 The cover image is taken from the tour and features the same logo used throughout the site again providing familiarity. The use of a stage indicates that this is the page relating to live perfomances. 
 This is a simple page in a calendar style so the user can easily see upcoming tour dates, locations and the names of the events. 
 Each calendar section contains a button taking the user to a ticket site where they can purchase tickets to the event. 
