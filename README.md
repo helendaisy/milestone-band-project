@@ -209,6 +209,7 @@ Each calendar section contains a button taking the user to a ticket site where t
 - Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
 - Balsamiq - used as above for the mock up wireframes. 
 - Pen & Paper ~ Used for the Creation of Wireframes.
+- [https://autoprefixer.github.io/] ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
 
 ## Testing
 
