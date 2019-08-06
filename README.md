@@ -131,7 +131,7 @@ All external links are set up to open in new windows so the user doesn't use the
 - The third section *Find Out More* links to the subscribe section on the [home page](add in homepage link) so that from each page the user can quickly get back to subscribe for further updates.  
 - The fourth section adds in the commentary around the creator of the site. 
 
-#### [Homepage](add in homepage link)
+#### [Homepage](https://helendaisy.github.io/milestone-band-project/)
 
 ##### Text 
 
@@ -150,7 +150,7 @@ It is a simple instruction to enter their email address into the text box and th
 There is an error feature if the information entered is not in a correct email address format. 
 
 
-#### [The Band Page](add in bandpage link)
+#### [The Band Page](https://helendaisy.github.io/milestone-band-project/band.html)
 
 ##### Band Images
 This page has split a full image of the band into the indvidual members so the user and learn quickly and simpy who is who. 
@@ -165,7 +165,7 @@ The modal pop up box contains -
 - A brief paragraph about the individual and their history and role within the band to help the user learn more about the band. 
 - The close box is highlighted in a contrasting pale color to make it really clear to the user how to get out of the window. 
 
-#### [Listen Page](add in listen page link)
+#### [Listen Page](https://helendaisy.github.io/milestone-band-project/media.html)
 
 A gif taken from a music video is used here as the cover image. Gifs are a popular tool in communication concisely showing the point of the page.  
 The movement here shows the user that this is a more interactive page and gives an insight into them performing. 
@@ -183,7 +183,7 @@ Most users are familiar with the layout and look of a youtube link. Clicking any
 Below the video is a button to take the user to the band YouTube page to watch more videos. 
 
 
-#### [Shows Page](add in shows page link) 
+#### [Shows Page](https://helendaisy.github.io/milestone-band-project/calendar.html) 
 
 ##### Upcoming Shows
 The cover image is taken from the tour and features the same logo used throughout the site again providing familiarity. The use of a stage indicates that this is the page relating to live perfomances. 
@@ -211,6 +211,7 @@ Each calendar section contains a button taking the user to a ticket site where t
 - Pen & Paper ~ Used for the Creation of Wireframes.
 
 ## Testing
+
 
 ## Deployment 
 
