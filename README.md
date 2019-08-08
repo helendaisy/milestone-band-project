@@ -4,7 +4,7 @@
 
 ## UX
 
-### Project Goals 
+### > Project Goals 
 
 This website is a one-stop shop for people who want to find out about the band Foo Fighters, it provides a brief overview of the band's 
 history, a selection of their biggest hits and a music video and images of the band to introduce people to the band and entice them to engage 
@@ -15,7 +15,7 @@ The target audience for this site is anyone aged 10 to 100 who isn't currently a
 The information is split into simple bitesize areas rather than overloadng with details and content to highlight the key areas of the band 
 so that users can decide quickly if they want to explore more. The site should be responsive and suitable on all screen sizes and browsers. 
 
-### User Goals 
+### > User Goals 
 
 - Learn about the band 
 - Find out who is in the band 
@@ -27,7 +27,7 @@ so that users can decide quickly if they want to explore more. The site should b
 - Find out when they can go and watch a show 
 - Connect for more information 
 
-### Developer and Site Goals: 
+### > Developer and Site Goals: 
 
 - Provide a smooth user experience
 - Build awareness of the band
@@ -36,7 +36,7 @@ so that users can decide quickly if they want to explore more. The site should b
 - Drive ticket sales to shows 
 - Build fan data and direct contact ability through email sign up 
 
-### User stories - 
+### > User stories - 
 
 As a visitor to the site I want to -
 
@@ -50,8 +50,7 @@ As a visitor to the site I want to -
 7. Watch a music video to see the band in action. 
 8. Find out when I can see them in concert and have easy links to buy tickets.
 
-
-### Design Choices 
+### > Design Choices 
 
 The overall feel of the site should be simple and clean and inkeeping with the band's overall "rock" brand. 
 The following choices were made with this in mind. 
@@ -94,7 +93,7 @@ Color selection made using -
 - Media page image is a repeating gif showing an action show from a music video a snapshot of what the user will see further down the page 
 - Shows page is an empty stage image making it clear this is the page to be on to be able to see them perform live 
 
-### Wireframes 
+### > Wireframes 
 
 - [Home Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/homepagewireframe.png) 
 - [Band Page](https://github.com/helendaisy/milestone-band-project/blob/master/assets/wireframes/bandpagewireframe.png) 
@@ -109,9 +108,9 @@ Balsamiq was used to wireframe the project in the initial planning stages. As th
 - Text and Buttons were taken out of the cover hero images so they would have more impact. 
 - Return to previous page button was removed from the band member pop-up box and close icon made more prominent. 
 
-## Features 
+## > Features 
 
-### Existing Features 
+### > Existing Features 
 
 #### All pages 
 
@@ -190,14 +189,14 @@ The cover image is taken from the tour and features the same logo used throughou
 This is a simple page in a calendar style so the user can easily see upcoming tour dates, locations and the names of the events. 
 Each calendar section contains a button taking the user to a ticket site where they can purchase tickets to the event. 
 
-### Future Feature Implementation 
+### > Future Feature Implementation 
 
 - GDPR / Cookies pop up screen to ensure compliance with latest data protection laws - Javascript needed  
 - Pop-up box confirming successful subscription to mailing list - Javascript needed 
 - Feed from the Foo Fighters Instagram page to show the latest updates from the band - Javascript needed 
 
 
-## Technologies Used 
+## > Technologies Used 
 
 - HTML ~ main Language used to structure the individual pages of the website.
 - CSS ~ styling language used to format and visually build upon the accompanying HTML.
@@ -211,10 +210,10 @@ Each calendar section contains a button taking the user to a ticket site where t
 - Pen & Paper ~ Used for the Creation of Wireframes.
 - [https://autoprefixer.github.io/] ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
 
-## Testing
+## > Testing
 
 
-## Deployment 
+## > Deployment 
 
 This project has been created using the cloud9 IDE. It was committed to Git and pushed to GitHub using the built in function within cloud9. 
 
@@ -238,7 +237,7 @@ To run this project locally it can be cloned from GitHub using the following met
 - Type *git clone* and paste the copied URL, press enter. 
 - Your local copy should now be created. 
 
-## Credits 
+## > Credits 
 
 ### Content 
 Content in this project was written by the creator - Helen Neal, using information taken from the following Wikipedia pages 
