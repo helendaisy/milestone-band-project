@@ -73,9 +73,6 @@
     padding-left: 0;
     padding-right: 0;
     background: url('../media/photos/foofightersbandphoto.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: 100% 100%;
     margin-top: 50px;
     align-items: center;
@@ -89,9 +86,7 @@
     padding-left: 0;
     padding-right: 0;
     background: url('../media/photos/foofighterscolourbandimage.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+
     background-size: 100% 100%;
     margin-top: 50px;
     align-items: center;
@@ -105,9 +100,7 @@
     padding-left: 0;
     padding-right: 0;
     background: url('../media/photos/foofightersplayinggif.gif') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+   
     background-size: 100% 100%;
     margin-top: 50px;
     align-items: center;
@@ -121,9 +114,7 @@
     padding-left: 0;
     padding-right: 0;
     background: url('../media/photos/foofightersstagephoto.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+   
     background-size: 100% 100%;
     margin-top: 50px;
     align-items: center;
@@ -144,7 +135,7 @@
     border: 0;
     padding-left:25px;
     padding-right:25px;
-    margin-bottom: 30;
+    margin-bottom: 30px;
 }
 
 .page-header {

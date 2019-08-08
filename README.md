@@ -211,7 +211,7 @@ Each calendar section contains a button taking the user to a ticket site where t
 - [https://autoprefixer.github.io/] ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
 
 ## > Testing
-
+https://validator.w3.org/#validate_by_uri+with_options
 
 ## > Deployment 
 
