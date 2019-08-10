@@ -219,9 +219,7 @@ for the aesthetic of the site.
 
 - [Web.dev](https://web.dev/) was used to test the performance of the site and the report can be found [here](https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://helendaisy.github.io/milestone-band-project/)
 
-### UX Testing 
-
-#### User Stories Testing 
+### README User Stories Testing 
 
 1. See straight away that I am on the right site for what I am looking for. 
     - The homepage offers a large image of the band and the name in the top left as well as under the header image so the user can clearly see if this is the page they are looking for. 
@@ -255,9 +253,45 @@ for the aesthetic of the site.
     - Scrolling down the page the user can click on the Youtube video to watch the band. 
     - Under this section is a link to the external Youtube site allowing the user to watch more.
     
-8. Find out when I can see them in concert and have easy links to buy tickets.
+9. Find out when I can see them in concert and have easy links to buy tickets.
     - The shows page can be accessed from the navigation bar or from the linked text towards the bottom of the homepage. This page allows the user a summary of the upcoming shows and easy links to buy tickets. 
 
+### Functionality 
+
+I tested the functionality of each page of the site on multiple browsers (**Chrome, Firefox, Safari, Internet Explorer**) and screen sizes and devices (**IPad, IPhone, Samsung Phone**). 
+Below is a record of the testing completed and any changes made as a result. 
+
+#### Home Page 
+
+1. Navigation Bar 
+2. Cover Image 
+3. Text Content 
+4. Carousel Images 
+5. Subscribe Section 
+6. Footer 
+
+#### Band Page 
+
+1. Navigation Bar 
+2. Cover Image 
+3. Band Images  
+4. Individual Modals  
+5. Footer 
+
+#### Listen Page 
+
+1. Navigation Bar 
+2. Cover Gif 
+3. Listen Section 
+4. Watch Section 
+5. Footer 
+
+#### Shows Page 
+
+1. Navigation Bar 
+2. Cover Image 
+3. Calendar Section
+4. Footer 
 
 ## > Deployment 
 
@@ -331,6 +365,7 @@ Content in this project was written by the creator - Helen Neal, using informati
 
 - Tips for sending a the footer link to the subscription section of the home page <https://stackoverflow.com/questions/15481911/linking-to-a-specific-part-of-a-web-page>
 
+- README structure inspiration taken from Anna Greaves Slack Lead <https://github.com/AJGreaves/portrait-artist/blob/master/README.md>  
 
 The content of this Website is for educational purposes only.
 
