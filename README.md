@@ -191,9 +191,10 @@ Each calendar section contains a button taking the user to a ticket site where t
 
 ### > Future Feature Implementation 
 
-- GDPR / Cookies pop up screen to ensure compliance with latest data protection laws - Javascript needed  
-- Pop-up box confirming successful subscription to mailing list - Javascript needed 
-- Feed from the Foo Fighters Instagram page to show the latest updates from the band - Javascript needed 
+- GDPR / Cookies pop up screen to ensure compliance with latest data protection laws.
+- Pop-up box confirming successful subscription to mailing list.  
+- Feed from the Foo Fighters Instagram page to show the latest updates from the band. 
+- A live update of the upcoming shows so that it doesn't require manual update. 
 
 
 ## > Technologies Used 
@@ -207,11 +208,56 @@ Each calendar section contains a button taking the user to a ticket site where t
 - [HTMLcolorcodes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
 - Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
 - Balsamiq - used as above for the mock up wireframes. 
-- Pen & Paper ~ Used for the Creation of Wireframes.
-- [https://autoprefixer.github.io/] ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
+- Pen & Paper ~ Used for the Creation of intial planning stage Wireframes.
+- https://autoprefixer.github.io/ ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
 
 ## > Testing
-https://validator.w3.org/#validate_by_uri+with_options
+
+- [W3C Markup Validation Service](https://validator.w3.org/#validate_by_uri+with_options) was used to test the HTML with the only warnings noted around headings in certain sections which I have chosen not to add 
+for the aesthetic of the site.
+- [W3C Markup Validation Service](https://jigsaw.w3.org/css-validator/) was used to test the CSS with no errors found.
+
+- [Web.dev](https://web.dev/) was used to test the performance of the site and the report can be found [here](https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://helendaisy.github.io/milestone-band-project/)
+
+### UX Testing 
+
+#### User Stories Testing 
+
+1. See straight away that I am on the right site for what I am looking for. 
+    - The homepage offers a large image of the band and the name in the top left as well as under the header image so the user can clearly see if this is the page they are looking for. 
+    - The name is clearly visible in the top left across all pages. 
+    - Images of the band or of their logo are used across the top of all pages. 
+
+2. Navigate the site so that I can see the areas I'm interested in easily. 
+    - The navigation bar along the top allows the user to easily navigate to the area of interest to them. 
+    - The band name on the left of the navigation bar will bring them back to the homepage from any page. 
+    - As you scroll down the home page links in the text also suggest ways to get to other pages of interest. 
+
+3. Learn about who the Foo Fighters are.
+    - The homepage gives an insight into the history of the band as the user scrolls down. 
+    - The Band page lists all the members and the mouse pointer changes over each image so the user knows there is more to see and can click on the image to learn more. 
+    
+4. See images of the band, to confirm this is the band I wanted to find out about and encourage me to want to listen to them. 
+    - As the user scrolls down the homepage they reach the carousel of images of the band. 
+    
+5. Easily have a way to engage further and find out more than is initially available on the site. 
+    - Throughout the site there are links under the relevant sections to enable the user to go to other sites to learn more. For Example, the link to the band's Instagram page under the gallery on the homepage. 
+    - The footer on every page also contains all of the external links used throughout the site so that the user can easily find ways to interact further. 
+    
+6. Find out more about each of the band members, so I can choose my favourite.  
+    - The Band page accessed through the navigation bar clearly lists all the members and allows the user to click each image to oen a small window with more information.
+
+7. Listen to a selection of popular songs that may be familiar or brand new to hopefully develop a liking for the band and then easily have a way to listen to more. 
+    - The Listen page is accessed through the navigation bar and the user can click each song to listen, and adjust volume and place in the song. 
+    - Under this section are links to external sites allowing the user to listen to more. 
+    
+8. Watch a music video to see the band in action. 
+    - Scrolling down the page the user can click on the Youtube video to watch the band. 
+    - Under this section is a link to the external Youtube site allowing the user to watch more.
+    
+8. Find out when I can see them in concert and have easy links to buy tickets.
+    - The shows page can be accessed from the navigation bar or from the linked text towards the bottom of the homepage. This page allows the user a summary of the upcoming shows and easy links to buy tickets. 
+
 
 ## > Deployment 
 
