@@ -258,40 +258,96 @@ for the aesthetic of the site.
 
 ### Functionality 
 
-I tested the functionality of each page of the site on multiple browsers (**Chrome, Firefox, Safari, Internet Explorer**) and screen sizes and devices (**IPad, IPhone, Samsung Phone**). 
+The testing below of the functionality of each page of the site was carried out on multiple browsers (**Chrome, Firefox, Safari, Internet Explorer**) and screen sizes and devices (**IPad, IPhone, Samsung Phone**). 
 Below is a record of the testing completed and any changes made as a result. 
 
 #### Home Page 
 
 1. Navigation Bar 
-2. Cover Image 
+    - Click on the Home page. Confirm index.html opens. 
+    - Click on *Foo Fighters* in the let hand corner, confirm it takes you back to the home page. 
+    - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this is starts closed** 
+    - Click on each item in the navigation bar and drop down and confirm it takes you to the correct page. 
+
+2. Cover Image
+    - Resize window to confirm the image does not distort at each screen size. **A new home image with higher quality and different sizing was selected when testing as the original image did not resize correctly**
+
 3. Text Content 
+    - Resize window to confirm the text positioning and format looks good at all sizes. **The middle paragraph was split to look better following testing. The width of the text below the heading was expanded to improve the format on mobile devices**
+    - Spelling and punctuation checked here.
+
 4. Carousel Images 
+    - Confirm all images show and switch between images is smooth. 
+    - Resize to confirm no quality issues when reducing window size. **The order of the images were swapped afer testing so the first image is more impactful**
+    - Click on the *Instagram* to confirm the link works and opens in a new window. 
+
 5. Subscribe Section 
+    - Resize window to confirm format on all screen sizes. 
+    - Enter an email address to confirm functionality.
+    - Enter standard text with no email to confirm an error message is received. 
+    - Click the submit button to confirm no error message is received. 
+
 6. Footer 
+    - Click each link to confirm they work and open in new windows. **The facebook link was not working when tested due to a spelling error, this was corrected and now works**
+    - Click the *Envelope* icon to confirm it takes you to the *Keep In Touch* subscribe section. 
+    - Resize the window to confirm the foot is responsive and headers go from vertical line to one on top of the other on mobile devices. 
 
 #### Band Page 
 
 1. Navigation Bar 
+    - Repeat testing steps from the home page to confirm correct on all pages. 
+
 2. Cover Image 
+    - Resize window to confirm the image does not distort at each screen size. 
+
 3. Band Images  
+    - Check spacing of images and resize screen to confirm they change from 3 in a row on a wider device to one on top of the other on a smaller screen. 
+    - Check the mouse pointer changes when hovering over images to show there is functionality to find out more. **initially didn't work so code fixed to correct** 
+    
+
 4. Individual Modals  
+    - Click each image to confirm the modal box opens and text and images are formatted correctly. **formatting and positioning of text altered during testing to look better**
+    - Click close button to confirm it works. Re-open and click onto the page behind to confirm it closes this way too.  
+
 5. Footer 
+    - Repeat testing steps from the home page to confirm correct on all pages.
 
 #### Listen Page 
 
 1. Navigation Bar 
+    - Repeat testing steps from the home page to confirm correct on all pages. 
+
 2. Cover Gif 
+    - Resize window to confirm the gif does not distort and works at each screen size. 
+
 3. Listen Section 
+    - Resize window to confirm the album image moves from the side of the audio links in a wide screen to above them on a smaller screen. 
+    - Click each song to confirm music plays. 
+    - Click the *Apple Music* and *Spotify* buttons to confirm the correct sites open in new windows. 
+
 4. Watch Section 
+    - Resize to check the sizing and functionality works on all screen sizes. 
+    - Click the video to confirm it plays correctly. 
+    - Click the *Youtube* button to confirm the correct site opens in a new window.
+
 5. Footer 
+    - Repeat testing steps from the home page to confirm correct on all pages. 
 
 #### Shows Page 
 
 1. Navigation Bar 
+    - Repeat testing steps from the home page to confirm correct on all pages. 
+
 2. Cover Image 
+    - Resize window to confirm the image does not distort at each screen size.
+
 3. Calendar Section
+    - Check spacing of calendar and resize screen to confirm they change from 3 in a row on a wider device to one on top of the other on a smaller screen.
+    - Click each link to confirm it opens the correct ticket page in a separate window. 
+
 4. Footer 
+    - Repeat testing steps from the home page to confirm correct on all pages
+
 
 ## > Deployment 
 
