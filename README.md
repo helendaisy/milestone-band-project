@@ -1,7 +1,5 @@
 # Foo Fighters Website 
 
-<https://helendaisy.github.io/milestone-band-project/>
-
 ## UX
 
 ### > Project Goals 
@@ -201,15 +199,14 @@ Each calendar section contains a button taking the user to a ticket site where t
 
 - HTML ~ Main Language used to structure the individual pages of the website.
 - CSS ~ Styling language used to format and visually build upon the accompanying HTML.
-- Bootstrap ~ Used as the core structuring of the website, ensuring mobile-first design and responsive size display. 3.3.7 used as the project was started prior to release of 4. 
+- [Bootstrap](https://getbootstrap.com/docs/3.3/) ~ Used as the core structuring of the website, ensuring mobile-first design and responsive size display. 3.3.7 used as the project was started prior to release of 4. 
 - Cloud9 ~ Used as the IDE.
-- Git ~ Used to host the deployed website and repository of all previous versions of the build.
+- Git ~ Used to host the deployed website and version control.
 - Google Chrome Developer Tools ~ Used as the core test phase throughout the project build life, testing the responsiveness of elements and CSS visuals.
-- 
-- Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
+- JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality as part of the bootstrap function.
 - Balsamiq - used as above for the mock up wireframes. 
 - Pen & Paper ~ Used for the Creation of intial planning stage Wireframes.
-- https://autoprefixer.github.io/ ~ Auto-prefixer used to confirm correct pre-fixes used in css for multiple browsers. 
+- [Autoprefixer](https://autoprefixer.github.io/) ~ used to confirm correct pre-fixes used in css for multiple browsers. 
 
 ## > Testing
 
@@ -219,7 +216,7 @@ for the aesthetic of the site.
 
 - [Web.dev](https://web.dev/) was used to test the performance of the site and the report can be found [here](https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://helendaisy.github.io/milestone-band-project/)
 
-### README User Stories Testing 
+### User Stories Testing 
 
 1. See straight away that I am on the right site for what I am looking for. 
     - The homepage offers a large image of the band and the name in the top left as well as under the header image so the user can clearly see if this is the page they are looking for. 
@@ -265,7 +262,7 @@ Below is a record of the testing completed and any changes made as a result.
 
 1. Navigation Bar 
     - Click on the Home page. Confirm index.html opens. 
-    - Click on *Foo Fighters* in the let hand corner, confirm it takes you back to the home page. 
+    - Click on **Foo Fighters** in the let hand corner, confirm it takes you back to the home page. 
     - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this is starts closed** 
     - Click on each item in the navigation bar and drop down and confirm it takes you to the correct page. 
 
@@ -351,14 +348,14 @@ Below is a record of the testing completed and any changes made as a result.
 
 ## > Deployment 
 
-### Deploying the project to GitHub
+### Deploying the project to GitHub Pages
 - Log in to GitHub 
-- Select milestone-band-project from the list of repositories. 
-- From the menu under the heading helendaisy/milestone-band-project go to Settings. 
+- Select **milestone-band-project** from the list of repositories. 
+- From the menu under the heading **helendaisy/milestone-band-project** go to Settings. 
 - Scroll to the GitHub Pages section. 
-- Change the drop down menu under *Source* from *None* to *Master Branch* 
+- Change the drop down menu under **Source** from **None** to **Master Branch** 
 - This automatically refreshes the page and deploys the site. 
-- Scroll back to the *GitHub Pages* section for the live link to the site. 
+- Scroll back to the **GitHub Pages** section for the live link to the site. 
 
 ### Running the project locally 
 - Go to the project's [GitHub Repository](https://github.com/helendaisy/milestone-band-project)
@@ -410,7 +407,7 @@ Content in this project was written by the creator - Helen Neal, using informati
 
 - [Hamburger Menu](<https://colorlib.com/wp/forums/topic/customizing-mobile-hamburger-menu-color-size-text/>) ~ CSS code for customising Navbar edited from here. 
 
-- [HTMLcolorcodes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
+- [HTML Color Codes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
 
 - [YouTube Embedding](https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap) ~ Code to embed YouTube video on the 'media.html' page taken and edited to suit. 
 

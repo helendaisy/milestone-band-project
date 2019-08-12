@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,500,600,700');
 
-/*----------------------special padding*/
+/*special padding*/
 
 .row {
     margin: 0;
 }
 
-/*----------------------navbar*/
+/*navbar*/
 
 .navbar {
     margin-bottom: 0;
@@ -51,7 +51,7 @@
     color: #958B6D;
 }
 
-/*----------------------navbar button */
+/*navbar button */
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -66,7 +66,7 @@
 }
 
 
-/*----------------------headers*/
+/*headers*/
 
 .homepage-container {
     height: 80vh;
@@ -123,7 +123,7 @@
     position: relative;
 }
 
-/*----------------------homepage*/
+/*homepage*/
 
 .bio-container {
     background-color: #060505;
@@ -156,7 +156,7 @@
     text-align: center;
     background-color: #060505;
 }
-/*----------------------band info*/
+/*band info*/
 
 .member-container {
     background-color: #060505;
@@ -214,7 +214,7 @@
     color: #D4AF37;
 }
 
-/*----------------------media*/
+/*media*/
 
 .foos-container {
     font-family: "Archivo+Narrow", sans-serif;
@@ -259,7 +259,7 @@
     font-weight: 600;
 }
 
-/*----------------------video*/
+/*video*/
 
 .responsive-video {
     position: relative;
@@ -279,7 +279,7 @@
 }
 
 
-/*----------------------carousel*/
+/*carousel*/
 
 .carousel {
     height: 80%;
@@ -304,7 +304,7 @@
 }
 
 
-/*----------------------calendar*/
+/*calendar*/
 
 .dates-container {
     font-family: "Archivo+Narrow", sans-serif;
@@ -361,7 +361,7 @@
     font-weight: 400;
 }
 
-/*----------------------subscribe section*/
+/*subscribe section*/
 
 .subscription-container {
     font-family: "Archivo+Narrow", sans-serif;
@@ -381,7 +381,7 @@
     margin-left: 0px;
 }
 
-/*----------------------mobile format*/
+/*mobile format*/
 @media (max-width: 767px) {
     .subscribe {
         text-align :center;
@@ -390,7 +390,7 @@
     } 
 }
 
-/*----------------------tablet format*/
+/*tablet format*/
 @media (min-width: 768px) and (max-width: 991px) {
     
     .subscribe {
@@ -399,7 +399,7 @@
     } 
 }
 
-/*----------------------laptop format*/
+/*laptop format*/
 @media (min-width: 992px){
     
     .subscribe {
@@ -418,7 +418,7 @@
     font-weight: bold;
 }
 
-/*----------------------footer*/
+/*footer*/
 
 .footer-container {
     background-color: #060505;
