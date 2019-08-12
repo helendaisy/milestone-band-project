@@ -27,7 +27,7 @@ so that users can decide quickly if they want to explore more. The site should b
 - Find out when they can go and watch a show 
 - Connect for more information 
 
-### > Developer and Site Goals: 
+### > Developer and Site Goals 
 
 - Provide a smooth user experience
 - Build awareness of the band
@@ -36,9 +36,9 @@ so that users can decide quickly if they want to explore more. The site should b
 - Drive ticket sales to shows 
 - Build fan data and direct contact ability through email sign up 
 
-### > User stories - 
+### > User stories  
 
-As a visitor to the site I want to -
+As a user of the site I want to -
 
 1. See straight away that I am on the right site for what I am looking for. 
 2. Navigate the site so that I can see the areas I'm interested in easily. 
@@ -58,9 +58,9 @@ The following choices were made with this in mind.
 #### Fonts 
 
 The font chosen is Archivo narrow which is in line with the rest of the styling inkeeping with the style of the most 
-recent album released by the band. It has stright lines and is a simple, easy to read font. 
+recent album released by the band. It has straight lines and is a simple, easy to read font. 
 
-<https://fonts.google.com/> reviewed when deciding on font styling for the site. 
+[Google Fonts](https://fonts.google.com/) reviewed when deciding on font styling for the site. 
 
 #### Icons 
 
@@ -70,14 +70,14 @@ recent album released by the band. It has stright lines and is a simple, easy to
 
 #### Colors
 
-- Background color throughout #060505 selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
-- Font color #d4Af37 used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
-- Band info page close button on modal made #ffffff for ease of user to identify how to close the window. 
-- Calendar color #d4Af37 for header and #f9f2e0 for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
+- Background color throughout '#060505' selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
+- Font color '#d4Af37' used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
+- Band info page close button on modal made '#ffffff' for ease of user to identify how to close the window. 
+- Calendar color '#d4Af37' for header and '#f9f2e0' for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
 
 Color selection made using - 
-- <https://htmlcolorcodes.com/color-picker/>
-- <https://www.rapidtables.com/web/color/Gold_Color.html> 
+- [HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
+- [Rapid Tables - Gold Color](https://www.rapidtables.com/web/color/Gold_Color.html) 
 
 #### Styling 
 
@@ -191,7 +191,7 @@ Each calendar section contains a button taking the user to a ticket site where t
 
 ### > Future Feature Implementation 
 
-- GDPR / Cookies pop up screen to ensure compliance with latest data protection laws.
+- GDPR / Cookies pop up screen to ensure compliance with latest data protection laws required as the site collects email address data.
 - Pop-up box confirming successful subscription to mailing list.  
 - Feed from the Foo Fighters Instagram page to show the latest updates from the band. 
 - A live update of the upcoming shows so that it doesn't require manual update. 
@@ -199,13 +199,13 @@ Each calendar section contains a button taking the user to a ticket site where t
 
 ## > Technologies Used 
 
-- HTML ~ main Language used to structure the individual pages of the website.
-- CSS ~ styling language used to format and visually build upon the accompanying HTML.
-- Bootstrap Framework ~ Used as the core structuring of the website, ensuring mobile-first design and responsive size display. 3.3.7 used as the project was started prior to release of 4. 
-- Cloud9 IDE & Terminal ~ Used as the IDE for this project and to commit to local repository and push to GitHub.
-- Github ~ Used to host the deployed website and repository of all previous versions of the build.
+- HTML ~ Main Language used to structure the individual pages of the website.
+- CSS ~ Styling language used to format and visually build upon the accompanying HTML.
+- Bootstrap ~ Used as the core structuring of the website, ensuring mobile-first design and responsive size display. 3.3.7 used as the project was started prior to release of 4. 
+- Cloud9 ~ Used as the IDE.
+- Git ~ Used to host the deployed website and repository of all previous versions of the build.
 - Google Chrome Developer Tools ~ Used as the core test phase throughout the project build life, testing the responsiveness of elements and CSS visuals.
-- [HTMLcolorcodes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
+- 
 - Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
 - Balsamiq - used as above for the mock up wireframes. 
 - Pen & Paper ~ Used for the Creation of intial planning stage Wireframes.
@@ -351,9 +351,7 @@ Below is a record of the testing completed and any changes made as a result.
 
 ## > Deployment 
 
-This project has been created using the cloud9 IDE. It was committed to Git and pushed to GitHub using the built in function within cloud9. 
-
-In order to deploy this project to GitHub Pages from it's repository the following actions were completed - 
+### Deploying the project to GitHub
 - Log in to GitHub 
 - Select milestone-band-project from the list of repositories. 
 - From the menu under the heading helendaisy/milestone-band-project go to Settings. 
@@ -362,32 +360,31 @@ In order to deploy this project to GitHub Pages from it's repository the followi
 - This automatically refreshes the page and deploys the site. 
 - Scroll back to the *GitHub Pages* section for the live link to the site. 
 
-There are currently no differences between the development and deployed versions of the site. 
-
-To run this project locally it can be cloned from GitHub using the following method - 
+### Running the project locally 
 - Go to the project's [GitHub Repository](https://github.com/helendaisy/milestone-band-project)
 - Click the green *Clone or download* dropdown. 
 - Copy the Clone with HTTPS URL provided. 
-- Open GitBash in your chosen IDE 
+- Open a terminal in your chosen IDE 
 - Change the directory to where you want the cloned directory to be copied. 
-- Type *git clone* and paste the copied URL, press enter. 
+- Type 'git clone' and paste the copied URL, press enter. 
+'''git clone <https://github.com/helendaisy/milestone-band-project.git>'''
 - Your local copy should now be created. 
 
 ## > Credits 
 
 ### Content 
 Content in this project was written by the creator - Helen Neal, using information taken from the following Wikipedia pages 
-- <https://en.wikipedia.org/wiki/Foo_Fighters>
-- <https://en.wikipedia.org/wiki/Dave_Grohl> 
-- <https://en.wikipedia.org/wiki/Nate_Mendel>
-- <https://en.wikipedia.org/wiki/Pat_Smear>
-- <https://en.wikipedia.org/wiki/Taylor_Hawkins>
-- <https://en.wikipedia.org/wiki/Chris_Shiflett>
-- <https://en.wikipedia.org/wiki/Rami_Jaffee>
+- [Foo Fighters](<https://en.wikipedia.org/wiki/Foo_Fighters)
+- [Dave Grohl](https://en.wikipedia.org/wiki/Dave_Grohl) 
+- [Nate Mendel](https://en.wikipedia.org/wiki/Nate_Mendel)
+- [Pat Smear](https://en.wikipedia.org/wiki/Pat_Smear)
+- [Taylor Hawkins](https://en.wikipedia.org/wiki/Taylor_Hawkins)
+- [Chris Shiflett](https://en.wikipedia.org/wiki/Chris_Shiflett)
+- [Rami Jafree](https://en.wikipedia.org/wiki/Rami_Jaffee)
 
 ### Media 
 
- - Video link embedded from Foo Fighters YouTube channel - <https://www.youtube.com/watch?v=SBjQ9tuuTJQ>    
+ - Video link embedded from [Foo Fighters YouTube channel](https://www.youtube.com/watch?v=SBjQ9tuuTJQ)
  - Audio files owned by the creator, purchased via Itunes 
  - Images taken from the following sites/owners ~ 
     - [Logo](https://www.foofighterslive.com/news/review-foo-fighters-concrete-and-gold/)
@@ -411,17 +408,17 @@ Content in this project was written by the creator - Helen Neal, using informati
 
 ### Code 
 
-- CSS code for customising Navbar taken from <https://colorlib.com/wp/forums/topic/customizing-mobile-hamburger-menu-color-size-text/> and then edited. 
+- [Hamburger Menu](<https://colorlib.com/wp/forums/topic/customizing-mobile-hamburger-menu-color-size-text/>) ~ CSS code for customising Navbar edited from here. 
 
-- Code to embed YouTube video on the media.html page taken from <https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap> and then edited to suit. 
+- [HTMLcolorcodes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
 
-- Code for carousel of gallery images on index.html page taken from <https://getbootstrap.com/docs/3.4/javascript/#carousel> and then edited to suit.
+- [YouTube Embedding](https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap) ~ Code to embed YouTube video on the 'media.html' page taken and edited to suit. 
 
-- Documentation for additional support with media queries and navbar reviewed on the following pages <https://getbootstrap.com/docs/3.3/css/#grid-media-queries> and <https://getbootstrap.com/docs/3.3/components/#navbar>
+- [Carousel](https://getbootstrap.com/docs/3.4/javascript/#carousel) ~ Code for carousel of gallery images on 'index.html' page taken and then edited to suit.
 
-- Tips for sending a the footer link to the subscription section of the home page <https://stackoverflow.com/questions/15481911/linking-to-a-specific-part-of-a-web-page>
+- [Media Queries](https://getbootstrap.com/docs/3.3/css/#grid-media-queries) and [Navbar](https://getbootstrap.com/docs/3.3/components/#navbar) ~ Documentation for additional support with media queries and navbar. 
 
-- README structure inspiration taken from Anna Greaves Slack Lead <https://github.com/AJGreaves/portrait-artist/blob/master/README.md>  
+- [README structure](https://github.com/AJGreaves/portrait-artist/blob/master/README.md) inspiration taken from Anna Greaves Slack Lead.  
 
 The content of this Website is for educational purposes only.
 
