@@ -204,6 +204,7 @@ Each calendar section contains a button taking the user to a ticket site where t
 - Git ~ Used to host the deployed website and version control.
 - Google Chrome Developer Tools ~ Used as the core test phase throughout the project build life, testing the responsiveness of elements and CSS visuals.
 - JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality as part of the bootstrap function.
+- [TinyPNG](https://tinypng.com/) ~ used to reduce sizing of images for better functionality 
 - Balsamiq - used as above for the mock up wireframes. 
 - Pen & Paper ~ Used for the Creation of intial planning stage Wireframes.
 - [Autoprefixer](https://autoprefixer.github.io/) ~ used to confirm correct pre-fixes used in css for multiple browsers. 
