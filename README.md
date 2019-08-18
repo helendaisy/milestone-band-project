@@ -373,7 +373,7 @@ Below is a record of the testing completed and any changes made as a result.
 
 ### Content 
 Content in this project was written by the creator - Helen Neal, using information taken from the following Wikipedia pages 
-- [Foo Fighters](<https://en.wikipedia.org/wiki/Foo_Fighters)
+- [Foo Fighters](https://en.wikipedia.org/wiki/Foo_Fighters)
 - [Dave Grohl](https://en.wikipedia.org/wiki/Dave_Grohl) 
 - [Nate Mendel](https://en.wikipedia.org/wiki/Nate_Mendel)
 - [Pat Smear](https://en.wikipedia.org/wiki/Pat_Smear)
@@ -387,23 +387,23 @@ Content in this project was written by the creator - Helen Neal, using informati
  - Audio files owned by the creator, purchased via Itunes 
  - Images taken from the following sites/owners ~ 
     - [Logo](https://www.foofighterslive.com/news/review-foo-fighters-concrete-and-gold/)
-    - [Favicon](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi48oboscbjAhUx0uAKHUFzCiIQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ppgpaintsarena.com%2Fevents%2Fdetail%2Ffoo-fighters&psig=AOvVaw3WezcXXCaO71apHmUZYfSB&ust=1563811412825712)
-    - [Home Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwigs6z4tsbjAhWMDWMBHfbEC_4QjRx6BAgBEAU&url=https%3A%2F%2Fblog.ticketmaster.co.nz%2Fmusic%2Ffoo-fighters-playing-mt-smart-stadium-2018-1435&psig=AOvVaw0iqao32SMYkF6pQfqUp6Xo&ust=1563812837958915)
-    - [Home Page Gallery Image 1](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZjJPnucbjAhV57OAKHes1AnQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.alternativenation.net%2Fdave-grohl-owed-huge-money-foo-fighters-bandmates%2F&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
-    - [Home Page Gallery Image 2](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjtlIj2vMbjAhXvzoUKHa_5DGIQjRx6BAgBEAU&url=https%3A%2F%2Fwxrt.radio.com%2Ffoo-fighters-chicago-pop-up-shop&psig=AOvVaw3gdJLO1aj9vhusCOlhOaKN&ust=1563814437753578)
-    - [Home Page Gallery Image 3](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi6zMiEu8bjAhWkxoUKHYgRBowQjRx6BAgBEAU&url=https%3A%2F%2Fwww.livedesignonline.com%2Fbriefing-room%2Fphilips-vl6000-beams-deliver-knock-out-punch-foo-fighters&psig=AOvVaw2Tdv5T-9aE8BFke0pVeVeD&ust=1563813867743978)
-    - [Home Page Gallery Image 4](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwitg_-wusbjAhWJx4UKHVsNAEcQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFoo_Fighters&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
-    - [Band Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjP75bItcbjAhV77OAKHW5bCccQjRx6BAgBEAU&url=https%3A%2F%2Fwww.croatiaweek.com%2Ffoo-fighters-announce-croatia-concert-date%2F&psig=AOvVaw186z1QDXgnsief6mQU2wL7&ust=1563812404370413)
-    - [Band Page Individual Images](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjS_OL1ucbjAhWs0eAKHSnWDXcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.seattleweekly.com%2Farts%2Fpick-list-foo-fighters-ww1-america-kim-brooks%2F&psig=AOvVaw3JDNeZit-nyOgMpUsy1Ffw&ust=1563813586120896)
-    - [Modal Individual Image DG](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiQmbC8vsbjAhWjy4UKHb_dDCwQjRx6BAgBEAU&url=https%3A%2F%2Fmytownrocks.net%2Flivemusicnews%2Fgrohl-13%2F&psig=AOvVaw1MFE2qZWAn04Ap0vEv608_&ust=1563814840403787)
-    - [Modal Individual Image TH](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnseqWv8bjAhUQxoUKHR1eBMYQjRx6BAgBEAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FTaylor_Hawkins&psig=AOvVaw0ZZjOXaWcKfCO7rSPGYf9n&ust=1563815041088080)
-    - [Modal Individual Image NM](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjkqs6lv8bjAhWqyoUKHXb3BH8QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNate_Mendel&psig=AOvVaw0FHTPWdPVGype-UKiVy4WZ&ust=1563815078153196)
-    - [Modal Individual Image PS](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjK7vaxv8bjAhXCy4UKHffaB38QjRx6BAgBEAU&url=https%3A%2F%2Fno.wikipedia.org%2Fwiki%2FPat_Smear&psig=AOvVaw1lu2cIyd9RcVK32n2YiMhs&ust=1563815107554576)
-    - [Modal Individual Image CS](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi8r-W8v8bjAhVGrxoKHVX8C60QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChris_Shiflett&psig=AOvVaw1ViKqOsosxcMKHl8MbQQmC&ust=1563815129299945)
-    - [Modal Individual Image RJ](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjGz_7Fv8bjAhWvyoUKHUSmCGIQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRami_Jaffee&psig=AOvVaw3ZTU-BzRGuhATACBLhYICM&ust=1563815149443776)
-    - [Media Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjAmIWSwcbjAhUDTBoKHUcxD_EQjRx6BAgBEAU&url=http%3A%2F%2Frollingstone.tumblr.com%2Fpost%2F164532991401&psig=AOvVaw2qI9GNLGcdUs7pKeuXmjZy&ust=1563815197897965)
-    - [Media Page Greatest Hits Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F35%2FFooFightersGreatestHits.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGreatest_Hits_(Foo_Fighters_album)&docid=-bpOHJpUh2mrmM&tbnid=NQ6oAmGvYBadtM%3A&vet=10ahUKEwiKnLi6wcbjAhWGyoUKHc4VBSEQMwhNKAEwAQ..i&w=220&h=220&hl=en-GB&bih=576&biw=1366&q=foo%20fighters%20greatest%20hits%20&ved=0ahUKEwiKnLi6wcbjAhWGyoUKHc4VBSEQMwhNKAEwAQ&iact=mrc&uact=8)
-    - [Shows Page Header](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjni8GpwcbjAhUhzIUKHaX2AuQQjRx6BAgBEAU&url=https%3A%2F%2Fcellcode.us%2Fquotes%2Fchicago-tickets-fighters-foo.html&psig=AOvVaw18bWKn7fLT9GZ24j5Dv4e0&ust=1563815624332478)
+    - [Favicon](http://www.ppgpaintsarena.com/events/detail/foo-fighters)
+    - [Home Page Header](https://blog.ticketmaster.co.nz/music/foo-fighters-playing-mt-smart-stadium-2018-1435)
+    - [Home Page Gallery Image 1](https://www.livedesignonline.com/briefing-room/philips-vl6000-beams-deliver-knock-out-punch-foo-fighters)
+    - [Home Page Gallery Image 2](https://www.google.co.uk/search?q=foo+fighters&hl=en-GB&tbs=simg:CAQSlAEJb4fQ4DsifbQaiAELEKjU2AQaAghCDAsQsIynCBphCl8IAxInlQW6ELkQoAWXBZ4Fe-AOtxC4EKA6qSXqL7gv6S_1vLcct8C3RL4kwGjDJa--MModl0-90AHWmzP7KJiReqYMvzL7pFvfR-R3j4xfyVuAsHEscpuEmJRwVnVsgBAwLEI6u_1ggaCgoICAESBLkoMGUM&tbm=isch&tbas=0&source=lnt&sa=X&ved=0ahUKEwiBvYG9wIzkAhVw-ioKHYVhDwIQpwUIIw&biw=1366&bih=625&dpr=1#imgrc=68lo8Ebg6zAv6M:)
+    - [Home Page Gallery Image 3](https://en.wikipedia.org/wiki/Foo_Fighters)
+    - [Home Page Gallery Image 4](http://www.alternativenation.net/dave-grohl-owed-huge-money-foo-fighters-bandmates/)
+    - [Band Page Header](https://www.croatiaweek.com/foo-fighters-announce-croatia-concert-date/)
+    - [Band Page Individual Images](https://www.seattleweekly.com/arts/pick-list-foo-fighters-ww1-america-kim-brooks/)
+    - [Modal Individual Image DG](https://deskgram.net/explore/tags/concreteandgoldtour)
+    - [Modal Individual Image TH](https://de.wikipedia.org/wiki/Taylor_Hawkins)
+    - [Modal Individual Image NM](https://en.wikipedia.org/wiki/Nate_Mendel)
+    - [Modal Individual Image PS](https://no.wikipedia.org/wiki/Pat_Smear)
+    - [Modal Individual Image CS](https://en.wikipedia.org/wiki/Chris_Shiflett)
+    - [Modal Individual Image RJ](https://en.wikipedia.org/wiki/Rami_Jaffee)
+    - [Media Page Header](https://rollingstone.tumblr.com/post/164532991401/foo-fighters-sky-neighborhood)
+    - [Media Page Greatest Hits Image](https://en.wikipedia.org/wiki/Greatest_Hits_(Foo_Fighters_album)
+    - [Shows Page Header](http://frameimage.org/fenway-seating-chart-concert-foo-fighters/)
 
 ### Code 
 
