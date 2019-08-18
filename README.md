@@ -264,20 +264,20 @@ Below is a record of the testing completed and any changes made as a result.
 1. Navigation Bar 
     - Click on the Home page. Confirm index.html opens. 
     - Click on **Foo Fighters** in the left hand corner, confirm it takes you back to the home page. 
-    - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this starts closed** 
+    - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this starts closed.** 
     - Click on each item in the navigation bar and drop down and confirm it takes you to the correct page. 
 
 2. Cover Image
-    - Resize window to confirm the image does not distort at each screen size. **A new home image with higher quality and different sizing was selected when testing as the original image did not resize correctly**
-    - Confirm images switch from full width to smaller on tablet and mobile. **Media queries introduced following testing to prevent skewing of images**
+    - Resize window to confirm the image does not distort at each screen size. **A new home image with higher quality and different sizing was selected when testing as the original image did not resize correctly.**
+    - Confirm images switch from full width to smaller on tablet and mobile. **Media queries introduced following testing to prevent skewing of images.**
 
 3. Text Content 
-    - Resize window to confirm the text positioning and format looks good at all sizes. **The middle paragraph was split to look better following testing. The width of the text below the heading was expanded to improve the format on mobile devices**
+    - Resize window to confirm the text positioning and format looks good at all sizes. **The middle paragraph was split to look better following testing. The width of the text below the heading was expanded to improve the format on mobile devices.**
     - Spelling and punctuation checked here.
 
 4. Carousel Images 
     - Confirm all images show and switch between images is smooth. 
-    - Resize to confirm no quality issues when reducing window size. **The order of the images were swapped afer testing so the first image is more impactful**
+    - Resize to confirm no quality issues when reducing window size. **The order of the images were swapped afer testing so the first image is more impactful.**
     - Click on the *Instagram* to confirm the link works and opens in a new window. 
 
 5. Subscribe Section 
@@ -287,7 +287,7 @@ Below is a record of the testing completed and any changes made as a result.
     - Click the submit button to confirm no error message is received. 
 
 6. Footer 
-    - Click each link to confirm they work and open in new windows. **The facebook link was not working when tested due to a spelling error, this was corrected and now works**
+    - Click each link to confirm they work and open in new windows. **The Facebook link was not working when tested due to a spelling error, this was corrected and now works.**
     - Click the *Envelope* icon to confirm it takes you to the *Keep In Touch* subscribe section. 
     - Resize the window to confirm the footer is responsive and headers go from vertical line to one on top of the other on mobile devices. 
 
@@ -301,11 +301,11 @@ Below is a record of the testing completed and any changes made as a result.
 
 3. Band Images  
     - Check spacing of images and resize screen to confirm they change from 3 in a row on a wider device to one on top of the other on a smaller screen. 
-    - Check the mouse pointer changes when hovering over images to show there is functionality to find out more. **initially didn't work so code fixed to correct** 
+    - Check the mouse pointer changes when hovering over images to show there is functionality to find out more. **Initially didn't work so code fixed to correct.** 
     
 
 4. Individual Modals  
-    - Click each image to confirm the modal box opens and text and images are formatted correctly. **formatting and positioning of text altered during testing to look better**
+    - Click each image to confirm the modal box opens and text and images are formatted correctly. **Formatting and positioning of text altered during testing to look better.**
     - Click close button to confirm it works. Re-open and click onto the page behind to confirm it closes this way too.  
 
 5. Footer 
