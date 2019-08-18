@@ -402,7 +402,7 @@ Content in this project was written by the creator - Helen Neal, using informati
     - [Modal Individual Image CS](https://en.wikipedia.org/wiki/Chris_Shiflett)
     - [Modal Individual Image RJ](https://en.wikipedia.org/wiki/Rami_Jaffee)
     - [Media Page Header](https://rollingstone.tumblr.com/post/164532991401/foo-fighters-sky-neighborhood)
-    - [Media Page Greatest Hits Image](https://en.wikipedia.org/wiki/Greatest_Hits_(Foo_Fighters_album)
+    - [Media Page Greatest Hits Image](https://www.amazon.co.uk/Foo-Fighters-Greatest-Hits/dp/B002OFWG7E)
     - [Shows Page Header](http://frameimage.org/fenway-seating-chart-concert-foo-fighters/)
 
 ### Code 
