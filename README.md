@@ -10,7 +10,7 @@ on social media, buy or stream their music and videos and come along to their gi
 
 The target audience for this site is anyone aged 10 to 100 who isn't currently a fan of or aware of the Foo Fighters. 
 
-The information is split into simple bitesize areas rather than overloadng with details and content to highlight the key areas of the band 
+The information is split into simple bitesize areas rather than overloading with details and content to highlight the key areas of the band 
 so that users can decide quickly if they want to explore more. The site should be responsive and suitable on all screen sizes and browsers. 
 
 ### > User Goals 
@@ -114,7 +114,7 @@ Balsamiq was used to wireframe the project in the initial planning stages. As th
 
 Every page has the same navigation bar and footer on full screen and hamburger drop down menu and footer on smaller screen sizes. 
 Each page also has a large cover image to get the attention of the user and give an indication to the content of the page.
-All external links are set up to open in new windows so the user doesn't use their place on this page and can easily come back to it. 
+All external links are set up to open in new windows so the user doesn't lose their place on this page and can easily come back to it. 
 
 ##### Navigaton bar
 - The navigation bar has the conventional styling of the site name in the left hand corner and links to each other page on the right hand side. 
@@ -124,7 +124,7 @@ All external links are set up to open in new windows so the user doesn't use the
 ##### Footer 
 - The footer contains 4 clear sections which are view horizontally on a wider screen and vertically on smaller screen sizes. 
 - The first section *Follow Us* highlights the links to the social media accounts of the band as a quick simple way to encourage further engagement.
-- The second section *Buy Music* provides links to the music purchase and streaming sites to allow the user to listen to more. Giving even more option to the user and driving sales for the band. 
+- The second section *Buy Music* provides links to the music purchase and streaming sites to allow the user to listen to more. Giving even more options to the user and driving sales for the band. 
 - The third section *Find Out More* links to the subscribe section on the [home page](add in homepage link) so that from each page the user can quickly get back to subscribe for further updates.  
 - The fourth section adds in the commentary around the creator of the site. 
 
@@ -263,8 +263,8 @@ Below is a record of the testing completed and any changes made as a result.
 
 1. Navigation Bar 
     - Click on the Home page. Confirm index.html opens. 
-    - Click on **Foo Fighters** in the let hand corner, confirm it takes you back to the home page. 
-    - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this is starts closed** 
+    - Click on **Foo Fighters** in the left hand corner, confirm it takes you back to the home page. 
+    - Resize window to confirm text becomes a line burger drop down menu on mobile screen sizes. **In testing the drop down was defaulting to open when on mobile so code was amended to ensure this starts closed** 
     - Click on each item in the navigation bar and drop down and confirm it takes you to the correct page. 
 
 2. Cover Image
@@ -289,7 +289,7 @@ Below is a record of the testing completed and any changes made as a result.
 6. Footer 
     - Click each link to confirm they work and open in new windows. **The facebook link was not working when tested due to a spelling error, this was corrected and now works**
     - Click the *Envelope* icon to confirm it takes you to the *Keep In Touch* subscribe section. 
-    - Resize the window to confirm the foot is responsive and headers go from vertical line to one on top of the other on mobile devices. 
+    - Resize the window to confirm the footer is responsive and headers go from vertical line to one on top of the other on mobile devices. 
 
 #### Band Page 
 
