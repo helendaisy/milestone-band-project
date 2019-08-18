@@ -95,6 +95,7 @@
 
 /*headers media queries - images resized on tablet and mobile too keep sizing*/
 
+/*laptop format*/
 @media (min-width: 992px){
      .hero-image {
         background-size: 100% 100%;
@@ -102,6 +103,7 @@
      }   
 }
    
+/*mobile and tablet format*/   
 @media (max-width: 991px){
      .hero-image {
         background-size: contain;
@@ -110,14 +112,16 @@
      }   
 }
 
+/*page formats*/
 
-/*homepage*/
-
-.bio-container {
+.body-container {
     background-color: #060505;
     color: #D4AF37;
     font-family: "Archivo+Narrow", sans-serif;
 }
+
+
+/*homepage*/
 
 .bio {
     border: 0;
@@ -144,6 +148,84 @@
     text-align: center;
     background-color: #060505;
 }
+
+/*carousel*/
+
+.carousel {
+    height: 80%;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+ .carousel .item {
+    width: 100%;
+    height: 80%;
+    background-color: transparent;
+}
+
+.carousel-inner > .item > img {
+    position: relative;
+    margin: 0px auto;
+    min-width: 100%;
+    width: 100%;
+    height: auto;
+    max-width: none;
+}
+
+/*subscribe section*/
+
+.subscribe {
+    padding-bottom: 20px;
+}
+
+.contact-header {
+    text-align :center;
+    margin-bottom: 0px;
+}
+
+.subscription-container .subscribe {
+    margin-left: 0px;
+}
+
+/*mobile format*/
+@media (max-width: 767px) {
+    .subscribe {
+        text-align :center;
+        padding-left: 20px;
+        padding-right: 10px;
+    } 
+}
+
+/*tablet format*/
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .subscribe {
+        text-align :center;
+        margin-left:  50px;
+    } 
+}
+
+/*laptop format*/
+@media (min-width: 992px){
+    
+    .subscribe {
+        text-align :center;
+        margin-left:  50px;
+    } 
+}
+
+.subscribe-label {
+    font-weight: 500;
+}
+
+.btn--sign {
+    background-color: #d4af37;
+    color: #060505;
+    font-weight: bold;
+}
+
+
 /*band info*/
 
 .member-container {
@@ -266,32 +348,6 @@
     height: 100%;
 }
 
-
-/*carousel*/
-
-.carousel {
-    height: 80%;
-    width: 80%;
-    margin: 0 auto;
-    margin-bottom: 30px;
-}
-
- .carousel .item {
-    width: 100%;
-    height: 80%;
-    background-color: transparent;
-}
-
-.carousel-inner > .item > img {
-    position: relative;
-    margin: 0px auto;
-    min-width: 100%;
-    width: 100%;
-    height: auto;
-    max-width: none;
-}
-
-
 /*calendar*/
 
 .dates-container {
@@ -347,63 +403,6 @@
     background-color:#e4c561;
     border-color: #2d2c2a;
     font-weight: 600;
-}
-
-/*subscribe section*/
-
-.subscription-container {
-    font-family: "Archivo+Narrow", sans-serif;
-    background-color: #060505;
-    color: #D4AF37;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-}
-
-.contact-header {
-    text-align :center;
-    margin-bottom: 0px;
-}
-
-.subscription-container .subscribe {
-    margin-left: 0px;
-}
-
-/*mobile format*/
-@media (max-width: 767px) {
-    .subscribe {
-        text-align :center;
-        padding-left: 20px;
-        padding-right: 10px;
-    } 
-}
-
-/*tablet format*/
-@media (min-width: 768px) and (max-width: 991px) {
-    
-    .subscribe {
-        text-align :center;
-        margin-left:  50px;
-    } 
-}
-
-/*laptop format*/
-@media (min-width: 992px){
-    
-    .subscribe {
-        text-align :center;
-        margin-left:  50px;
-    } 
-}
-
-.subscribe-label {
-    font-weight: 500;
-}
-
-.btn--sign {
-    background-color: #d4af37;
-    color: #060505;
-    font-weight: bold;
 }
 
 /*footer*/
