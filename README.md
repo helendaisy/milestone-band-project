@@ -68,10 +68,10 @@ recent album released by the band. It has straight lines and is a simple, easy t
 
 #### Colors
 
-- Background color throughout '#060505' selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
-- Font color '#d4Af37' used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
-- Band info page close button on modal made '#ffffff' for ease of user to identify how to close the window. 
-- Calendar color '#d4Af37' for header and '#f9f2e0' for body used to make a recognisible calendar format, with the #f9f2e0 a big contrast to background and header to make it instantly noticeable. 
+- Background color throughout `#060505` selected to match the styling of the most recent album and the official band website to credit familiarity and consistency. 
+- Font color `#d4Af37` used throughout selected to match the color of the logo and styling on the most recent album to show consistency and familiarity.  
+- Band info page close button on modal made `#ffffff` for ease of user to identify how to close the window. 
+- Calendar color `#d4Af37` for header and `#f9f2e0` for body used to make a recognisible calendar format, with the `#f9f2e0` a big contrast to background and header to make it instantly noticeable. 
 
 Color selection made using - 
 - [HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
@@ -365,8 +365,8 @@ Below is a record of the testing completed and any changes made as a result.
 - Copy the Clone with HTTPS URL provided. 
 - Open a terminal in your chosen IDE 
 - Change the directory to where you want the cloned directory to be copied. 
-- Type 'git clone' and paste the copied URL, press enter. 
-'''git clone <https://github.com/helendaisy/milestone-band-project.git>'''
+- Type `git clone` and paste the copied URL, press enter. 
+```git clone <https://github.com/helendaisy/milestone-band-project.git>```
 - Your local copy should now be created. 
 
 ## > Credits 
@@ -411,9 +411,9 @@ Content in this project was written by the creator - Helen Neal, using informati
 
 - [HTML Color Codes](https://htmlcolorcodes.com/color-picker/) ~  used to obtain hexadecimal/rgba/hsl values of colours and decide on the theme colors for the site. 
 
-- [YouTube Embedding](https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap) ~ Code to embed YouTube video on the 'media.html' page taken and edited to suit. 
+- [YouTube Embedding](https://stackoverflow.com/questions/25228056/responsive-iframe-using-bootstrap) ~ Code to embed YouTube video on the `media.html` page taken and edited to suit. 
 
-- [Carousel](https://getbootstrap.com/docs/3.4/javascript/#carousel) ~ Code for carousel of gallery images on 'index.html' page taken and then edited to suit.
+- [Carousel](https://getbootstrap.com/docs/3.4/javascript/#carousel) ~ Code for carousel of gallery images on `index.html` page taken and then edited to suit.
 
 - [Media Queries](https://getbootstrap.com/docs/3.3/css/#grid-media-queries) and [Navbar](https://getbootstrap.com/docs/3.3/components/#navbar) ~ Documentation for additional support with media queries and navbar. 
 
