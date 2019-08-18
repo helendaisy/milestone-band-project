@@ -365,8 +365,10 @@ Below is a record of the testing completed and any changes made as a result.
 - Copy the Clone with HTTPS URL provided. 
 - Open a terminal in your chosen IDE 
 - Change the directory to where you want the cloned directory to be copied. 
-- Type `git clone` and paste the copied URL, press enter. 
+- Type `git clone` and paste the copied URL, press enter.
+
 ```git clone <https://github.com/helendaisy/milestone-band-project.git>```
+
 - Your local copy should now be created. 
 
 ## > Credits 
