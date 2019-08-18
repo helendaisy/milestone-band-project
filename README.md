@@ -269,6 +269,7 @@ Below is a record of the testing completed and any changes made as a result.
 
 2. Cover Image
     - Resize window to confirm the image does not distort at each screen size. **A new home image with higher quality and different sizing was selected when testing as the original image did not resize correctly**
+    - Confirm images switch from full width to smaller on tablet and mobile. **Media queries introduced following testing to prevent skewing of images**
 
 3. Text Content 
     - Resize window to confirm the text positioning and format looks good at all sizes. **The middle paragraph was split to look better following testing. The width of the text below the heading was expanded to improve the format on mobile devices**
